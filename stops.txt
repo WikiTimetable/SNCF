@@ -1,0 +1,801 @@
+stop_id,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station
+StopArea:OCE87184002,"gare de Belfort-Ville",,47.63322782,6.85410605,,,1,
+StopArea:OCE87185249,"gare de Lure",,47.6832566,6.49256598,,,1,
+StopArea:OCE87185009,"gare de Vesoul",,47.61780079,6.15177512,,,1,
+StopArea:OCE87142125,"gare de Culmont-Chalindrey",,47.81023471,5.44322417,,,1,
+StopArea:OCE87142000,"gare de Chaumont",,48.10945433,5.13444549,,,1,
+StopArea:OCE87118000,"gare de Troyes",,48.29503007,4.06538402,,,1,
+StopArea:OCE87113001,"gare de Paris-Est",,48.8765748,2.3591532,,,1,
+StopArea:OCE87118158,"gare de Romilly-sur-Seine",,48.51417327,3.72833188,,,1,
+StopArea:OCE87118190,"gare de Nogent-sur-Seine",,48.49783702,3.4937079,,,1,
+StopArea:OCE87142091,"gare de Langres",,47.87725486,5.34468027,,,1,
+StopArea:OCE87118299,"gare de Bar-sur-Aube",,48.23854994,4.70683803,,,1,
+StopArea:OCE87118257,"gare de Vendeuvre (Aube)",,48.24033602,4.46718837,,,1,
+StopArea:OCE87317586,"gare de Boulogne Ville",,50.71559109,1.6098188,,,1,
+StopArea:OCE87317065,"gare de Etaples Le Touquet",,50.51672171,1.64250182,,,1,
+StopArea:OCE87317057,"gare de Rang du Fl. Verton Ber.",,50.41581436,1.64808588,,,1,
+StopArea:OCE87317404,"gare de Rue",,50.27320706,1.67561882,,,1,
+StopArea:OCE87317396,"gare de Noyelles-sur-Mer",,50.18733741,1.70447418,,,1,
+StopArea:OCE87317362,"gare de Abbeville",,50.10219698,1.82449248,,,1,
+StopArea:OCE87313874,"gare de Amiens",,49.89053731,2.30810518,,,1,
+StopArea:OCE87313049,"gare de Longueau",,49.86343961,2.35223301,,,1,
+StopArea:OCE87271007,"gare de Paris-Nord",,48.88014229,2.35489377,,,1,
+StopArea:OCE87276006,"gare de Creil",,49.26377546,2.46918817,,,1,
+StopArea:OCE87313304,"gare de Clermont-de-l'Oise",,49.38534487,2.41720669,,,1,
+StopArea:OCE87313270,"gare de St-Just-SNCF",,49.50349939,2.42922326,,,1,
+StopArea:OCE87345520,"gare de Cambrai Ville",,50.17661303,3.2412188,,,1,
+StopArea:OCE87345561,"gare de Caudry",,50.11141082,3.40974763,,,1,
+StopArea:OCE87296244,"gare de Busigny",,50.0394948,3.44634881,,,1,
+StopArea:OCE87296004,"gare de St Quentin",,49.84002693,3.29693386,,,1,
+StopArea:OCE87276782,"gare de Noyon",,49.5773461,3.00638067,,,1,
+StopArea:OCE87276691,"gare de Compiègne",,49.42201501,2.82349702,,,1,
+StopArea:OCE87296442,"gare de Tergnier",,49.6592459,3.29722866,,,1,
+StopArea:OCE87296616,"gare de Chauny",,49.61020226,3.22252941,,,1,
+StopArea:OCE87276329,"gare de Pont-Ste-Maxence",,49.30978471,2.60285843,,,1,
+StopArea:OCE87413013,"gare de Le Havre",,49.49265375,0.12483519,,,1,
+StopArea:OCE87413344,"gare de Bréauté-Beuzeville",,49.60359483,0.41716198,,,1,
+StopArea:OCE87413385,"gare de Yvetot",,49.62211267,0.75007177,,,1,
+StopArea:OCE87411017,"gare de Rouen-Rive-Droite",,49.44903873,1.09416695,,,1,
+StopArea:OCE87411207,"gare de Oissel",,49.34304288,1.10183123,,,1,
+StopArea:OCE87415877,"gare de Val-de-Reuil",,49.27540789,1.22461228,,,1,
+StopArea:OCE87415620,"gare de Gaillon-Aubevoye",,49.1746337,1.35252015,,,1,
+StopArea:OCE87415604,"gare de Vernon (Eure)",,49.09128574,1.47836264,,,1,
+StopArea:OCE87381509,"gare de Mantes-la-Jolie",,48.98968735,1.70329418,,,1,
+StopArea:OCE87384008,"gare de Paris-St-Lazare",,48.87786526,2.32443291,,,1,
+StopArea:OCE87415018,"gare de Dieppe",,49.92124662,1.08113685,,,1,
+StopArea:OCE87444877,"gare de Cherbourg",,49.63350159,-1.62145989,,,1,
+StopArea:OCE87447284,"gare de Valognes",,49.50538585,-1.4803232,,,1,
+StopArea:OCE87447243,"gare de Carentan",,49.30180335,-1.2420982,,,1,
+StopArea:OCE87444000,"gare de Caen",,49.17654371,-0.34826957,,,1,
+StopArea:OCE87444265,"gare de Lisieux",,49.1372519,0.23168224,,,1,
+StopArea:OCE87444299,"gare de Bernay",,49.08698855,0.595728,,,1,
+StopArea:OCE87387001,"gare de Evreux - Normandie",,49.01855876,1.14988767,,,1,
+StopArea:OCE87447219,"gare de Lison",,49.22705349,-1.05028492,,,1,
+StopArea:OCE87444067,"gare de Bayeux",,49.2694443,-0.69771168,,,1,
+StopArea:OCE87444349,"gare de Pont-l'Evêque",,49.28702429,0.19196911,,,1,
+StopArea:OCE87444372,"gare de Trouville-Deauville",,49.35849952,0.08484284,,,1,
+StopArea:OCE87447680,"gare de Granville",,48.83884408,-1.58677824,,,1,
+StopArea:OCE87447698,"gare de Villedieu (Gare)",,48.83415156,-1.22545495,,,1,
+StopArea:OCE87448159,"gare de Vire",,48.84635383,-0.88316925,,,1,
+StopArea:OCE87448001,"gare de Flers",,48.74437263,-0.57368061,,,1,
+StopArea:OCE87448084,"gare de Briouze",,48.70200316,-0.36744375,,,1,
+StopArea:OCE87444539,"gare de Argentan",,48.73845947,-0.02572377,,,1,
+StopArea:OCE87444562,"gare de Surdon",,48.66490121,0.1341297,,,1,
+StopArea:OCE87444638,"gare de L'Aigle",,48.7666838,0.62073331,,,1,
+StopArea:OCE87393595,"gare de Verneuil-sur-Avre",,48.74273915,0.9292136,,,1,
+StopArea:OCE87393488,"gare de Dreux",,48.731491,1.37016894,,,1,
+StopArea:OCE87391003,"gare de Paris-Montparnasse 1-2",,48.84063621,2.31990678,,,1,
+StopArea:OCE87391102,"gare de Paris-Montp.3-Vaug.",,48.83738466,2.31585181,,,1,
+StopArea:OCE87447649,"gare de Folligny",,48.82915304,-1.40639963,,,1,
+StopArea:OCE87393009,"gare de Versailles-Chantiers",,48.79556635,2.13546496,,,1,
+StopArea:OCE87592006,"gare de Limoges-Bénédictins",,45.83621183,1.26746188,,,1,
+StopArea:OCE87592378,"gare de La Souterraine",,46.23975425,1.4922469,,,1,
+StopArea:OCE87597005,"gare de Châteauroux",,46.80982665,1.69946894,,,1,
+StopArea:OCE87597062,"gare de Issoudun",,46.94784857,1.98492117,,,1,
+StopArea:OCE87576009,"gare de Vierzon",,47.22651956,2.05983475,,,1,
+StopArea:OCE87547000,"gare de Paris-Austerlitz",,48.8416601,2.36604091,,,1,
+StopArea:OCE87597120,"gare de Argenton-sur-Creuse",,46.59223205,1.51823235,,,1,
+StopArea:OCE87594002,"gare de Brive-la-Gaillarde",,45.15256665,1.52863378,,,1,
+StopArea:OCE87594200,"gare de Uzerche",,45.4406256,1.57022957,,,1,
+StopArea:OCE87543017,"gare de Les Aubrais-Orléans",,47.92691735,1.90608452,,,1,
+StopArea:OCE87613000,"gare de Cahors",,44.44915105,1.43323755,,,1,
+StopArea:OCE87613141,"gare de Gourdon",,44.74190176,1.38927693,,,1,
+StopArea:OCE87594333,"gare de Souillac",,44.90233724,1.4652148,,,1,
+StopArea:OCE87611004,"gare de Toulouse-Matabiau",,43.61147083,1.45356421,,,1,
+StopArea:OCE87613356,"gare de Caussade (T.-et-G.)",,44.16230407,1.5334529,,,1,
+StopArea:OCE87611244,"gare de Montauban-Ville-Bourbon",,44.014648,1.34197901,,,1,
+StopArea:OCE87785006,"gare de Cerbère",,42.44276389,3.16552461,,,1,
+StopArea:OCE87784298,"gare de Banyuls-sur-Mer",,42.48261944,3.12441085,,,1,
+StopArea:OCE87784264,"gare de Port-Vendres",,42.51338125,3.10238579,,,1,
+StopArea:OCE87784256,"gare de Collioure",,42.5268923,3.07872086,,,1,
+StopArea:OCE87784231,"gare de Argelès-sur-Mer",,42.54395093,3.02150018,,,1,
+StopArea:OCE87784207,"gare de Elne",,42.59736926,2.96352068,,,1,
+StopArea:OCE87784009,"gare de Perpignan",,42.69607483,2.87961698,,,1,
+StopArea:OCE87781104,"gare de Narbonne",,43.19103322,3.00595633,,,1,
+StopArea:OCE87615286,"gare de Carcassonne",,43.217718,2.35189,,,1,
+StopArea:OCE87615039,"gare de Castelnaudary",,43.31265,1.951,,,1,
+StopArea:OCE87615112,"gare de Lézignan-Corbières",,43.19997074,2.76985676,,,1,
+StopArea:OCE71793150,"gare de Port-Bou",,43.02469957,3.89457088,,,1,
+StopArea:OCE87594572,"gare de St-Denis-près-Martel",,44.94579181,1.6662866,,,1,
+StopArea:OCE87613042,"gare de Rocamadour-Padirac",,44.81791104,1.65744503,,,1,
+StopArea:OCE87613059,"gare de Gramat",,44.77349191,1.72238031,,,1,
+StopArea:OCE87613075,"gare de Assier",,44.67460037,1.86974926,,,1,
+StopArea:OCE87613091,"gare de Figeac",,44.603522,2.037079,,,1,
+StopArea:OCE87613109,"gare de Capdenac",,44.57766,2.078905,,,1,
+StopArea:OCE87613661,"gare de Viviez-Decazeville",,44.55703965,2.21802392,,,1,
+StopArea:OCE87613224,"gare de Aubin",,44.52736111,2.23956396,,,1,
+StopArea:OCE87613232,"gare de Cransac",,44.52306284,2.27076675,,,1,
+StopArea:OCE87613257,"gare de St-Christophe",,44.46468683,2.407487,,,1,
+StopArea:OCE87613422,"gare de Rodez",,44.36265218,2.58025315,,,1,
+StopArea:OCE87615005,"gare de Albi-Ville",,43.922039,2.138643,,,1,
+StopArea:OCE87615195,"gare de Albi-Madeleine.",,43.93790598,2.14116976,,,1,
+StopArea:OCE87615625,"gare de Carmaux",,44.04901,2.152398,,,1,
+StopArea:OCE87615732,"gare de Naucelle",,44.185673,2.363265,,,1,
+StopArea:OCE87581009,"gare de Bordeaux-St-Jean",,44.82654205,-0.55619367,,,1,
+StopArea:OCE87491142,"gare de Jonzac",,45.43871422,-0.4420025,,,1,
+StopArea:OCE87491001,"gare de Saintes",,45.74784288,-0.61757581,,,1,
+StopArea:OCE87485144,"gare de Rochefort",,45.94741568,-0.96378831,,,1,
+StopArea:OCE87485003,"gare de La Rochelle-Ville",,46.15270103,-1.14530035,,,1,
+StopArea:OCE87486258,"gare de Luçon",,46.46372687,-1.16744489,,,1,
+StopArea:OCE87486019,"gare de La Roche-sur-Yon",,46.67202723,-1.43567913,,,1,
+StopArea:OCE87481002,"gare de Nantes",,47.21750593,-1.54191587,,,1,
+StopArea:OCE87481838,"gare de Savenay",,47.35856212,-1.95102548,,,1,
+StopArea:OCE87481846,"gare de Pontchâteau",,47.43533967,-2.08848572,,,1,
+StopArea:OCE87471300,"gare de Redon",,47.6517633,-2.08787664,,,1,
+StopArea:OCE87476606,"gare de Vannes",,47.66532376,-2.75252349,,,1,
+StopArea:OCE87476200,"gare de Auray",,47.68018937,-2.99999862,,,1,
+StopArea:OCE87476002,"gare de Lorient",,47.75520333,-3.36634771,,,1,
+StopArea:OCE87474098,"gare de Quimper",,47.99465835,-4.09210303,,,1,
+StopArea:OCE87586545,"gare de Marmande",,44.50307476,0.16811566,,,1,
+StopArea:OCE87586008,"gare de Agen",,44.207977,0.620915,,,1,
+StopArea:OCE87471003,"gare de Rennes",,48.10351573,-1.67231969,,,1,
+StopArea:OCE87491241,"gare de St-André-de-Cubzac",,44.99117862,-0.44047772,,,1,
+StopArea:OCE87491209,"gare de St-Mariens-St-Yzan",,45.13908942,-0.39167769,,,1,
+StopArea:OCE87491183,"gare de Montendre",,45.28059563,-0.39605927,,,1,
+StopArea:OCE87491100,"gare de Pons",,45.57808794,-0.53900142,,,1,
+StopArea:OCE87485110,"gare de Gare-De-Chatelaillon-Pl",,46.07856425,-1.09120872,,,1,
+StopArea:OCE87576207,"gare de Bourges",,47.09409945,2.3942365,,,1,
+StopArea:OCE87543165,"gare de Salbris",,47.42514773,2.04774326,,,1,
+StopArea:OCE87641001,"gare de Montluçon-Ville",,46.33787662,2.59642118,,,1,
+StopArea:OCE87641357,"gare de Vallon-en-Sully",,46.53649173,2.6108032,,,1,
+StopArea:OCE87576322,"gare de St-Amand-Montrond-Orval",,46.72652141,2.48606179,,,1,
+StopArea:OCE87576298,"gare de Châteauneuf-sur-Cher",,46.85668799,2.31021351,,,1,
+StopArea:OCE87576272,"gare de St-Florent-sur-Cher",,46.99212023,2.25215704,,,1,
+StopArea:OCE87611483,"gare de Latour-de-Carol-Enveitg",,42.45815677,1.90584041,,,1,
+StopArea:OCE87611509,"gare de Porte-Puymorens",,42.53875926,1.82484975,,,1,
+StopArea:OCE87611517,"gare de Andorre-L'Hospitalet",,42.58838649,1.79851758,,,1,
+StopArea:OCE87611525,"gare de Mérens-les-Vals",,42.65867891,1.83642817,,,1,
+StopArea:OCE87611533,"gare de Ax-les-Thermes",,42.72480983,1.83332206,,,1,
+StopArea:OCE87611574,"gare de Les Cabannes",,42.78653697,1.68617988,,,1,
+StopArea:OCE87611590,"gare de Tarascon-sur-Ariège",,42.84945283,1.60003103,,,1,
+StopArea:OCE87611616,"gare de Foix",,42.969299,1.607394,,,1,
+StopArea:OCE87611343,"gare de Pamiers",,43.116178,1.619003,,,1,
+StopArea:OCE87611368,"gare de Saverdun",,43.23942087,1.57042184,,,1,
+StopArea:OCE87611384,"gare de Auterive",,43.348835,1.46862436,,,1,
+StopArea:OCE87611558,"gare de Luzenac-Garanou",,42.76444377,1.75315369,,,1,
+StopArea:OCE87611236,"gare de Luchon",,42.79727811,0.59660863,,,1,
+StopArea:OCE87611194,"gare de Marignac-St-Béat",,42.91555023,0.65176086,,,1,
+StopArea:OCE87618710,"gare de Saléchan-Siradan",,42.96299447,0.63168928,,,1,
+StopArea:OCE87611178,"gare de Loures-Barbazan",,43.02113045,0.61044906,,,1,
+StopArea:OCE87611152,"gare de Montréjeau-Gourdan-Pol.",,43.07805685,0.5735362,,,1,
+StopArea:OCE87611137,"gare de St-Gaudens",,43.10495622,0.72926291,,,1,
+StopArea:OCE87611095,"gare de Boussens",,43.179328,0.972746,,,1,
+StopArea:OCE87611061,"gare de Carbonne",,43.29820585,1.21250881,,,1,
+StopArea:OCE87611038,"gare de Muret",,43.46478429,1.32416229,,,1,
+StopArea:OCE87677005,"gare de Hendaye",,43.35300367,-1.78186667,,,1,
+StopArea:OCE87677120,"gare de St-Jean-de-Luz-Ciboure",,43.38585017,-1.6611539,,,1,
+StopArea:OCE87673400,"gare de Biarritz",,43.45937903,-1.54600902,,,1,
+StopArea:OCE87673004,"gare de Bayonne",,43.49676401,-1.47039764,,,1,
+StopArea:OCE87673202,"gare de Dax",,43.720676,-1.05031541,,,1,
+StopArea:OCE87672253,"gare de Orthez",,43.48409996,-0.76762136,,,1,
+StopArea:OCE87672006,"gare de Pau",,43.2916699,-0.36964036,,,1,
+StopArea:OCE87671339,"gare de Lourdes",,43.10043658,-0.042183,,,1,
+StopArea:OCE87671008,"gare de Tarbes",,43.23980288,0.06940671,,,1,
+StopArea:OCE71116000,"gare de Irun",,43.33945305,-1.80131106,,,1,
+StopArea:OCE82001000,"gare de Luxembourg",,49.59965204,6.13400724,,,1,
+StopArea:OCE87191007,"gare de Thionville",,49.35393027,6.16885555,,,1,
+StopArea:OCE87192039,"gare de Metz-Ville",,49.10978917,6.17720253,,,1,
+StopArea:OCE87141002,"gare de Nancy-Ville",,48.68978616,6.17427891,,,1,
+StopArea:OCE87141044,"gare de Toul",,48.6761697,5.8643216,,,1,
+StopArea:OCE87141291,"gare de Neufchâteau",,48.35726141,5.69018834,,,1,
+StopArea:OCE87775007,"gare de Nîmes",,43.83229306,4.36583551,,,1,
+StopArea:OCE87773002,"gare de Montpellier-Saint-Roch",,43.60583439,3.88236031,,,1,
+StopArea:OCE87773200,"gare de Sète",,43.41281189,3.69639619,,,1,
+StopArea:OCE87781278,"gare de Agde",,43.31757369,3.46602019,,,1,
+StopArea:OCE87781005,"gare de Béziers",,43.345619,3.217771,,,1,
+StopArea:OCE87756056,"gare de Nice-Ville",,43.70471606,7.2617967,,,1,
+StopArea:OCE87757674,"gare de Antibes",,43.5857923,7.11952151,,,1,
+StopArea:OCE87757625,"gare de Cannes",,43.55392121,7.01972745,,,1,
+StopArea:OCE87757526,"gare de St-Raphaël-Valescure",,43.42360755,6.76901295,,,1,
+StopArea:OCE87755447,"gare de Les Arcs-Draguignan",,43.45573229,6.48246475,,,1,
+StopArea:OCE87755009,"gare de Toulon",,43.1283241,5.92946824,,,1,
+StopArea:OCE87751008,"gare de Marseille-St-Charles",,43.30273442,5.38065075,,,1,
+StopArea:OCE87753657,"gare de Arles",,43.68484578,4.63203021,,,1,
+StopArea:OCE87765008,"gare de Avignon-Centre",,43.94188067,4.80527389,,,1,
+StopArea:OCE87182063,"gare de Mulhouse",,47.74231412,7.3423325,,,1,
+StopArea:OCE87182014,"gare de Colmar",,48.07236197,7.34705873,,,1,
+StopArea:OCE87214056,"gare de Sélestat",,48.25996265,7.44319458,,,1,
+StopArea:OCE87212027,"gare de Strasbourg",,48.58511397,7.73562481,,,1,
+StopArea:OCE87723197,"gare de Lyon-Part-Dieu",,45.76059047,4.85944146,,,1,
+StopArea:OCE87726802,"gare de Roanne",,46.04021847,4.06313892,,,1,
+StopArea:OCE87732206,"gare de St-Germain-des-Fossés",,46.20910989,3.43049173,,,1,
+StopArea:OCE87696328,"gare de Moulins-sur-Allier",,46.56136842,3.33876006,,,1,
+StopArea:OCE87696260,"gare de Saincaize",,46.93137808,3.07197711,,,1,
+StopArea:OCE87696005,"gare de Nevers",,46.98754107,3.15041249,,,1,
+StopArea:OCE87571240,"gare de St-Pierre-des-Corps",,47.38573204,0.72505388,,,1,
+StopArea:OCE87571000,"gare de Tours",,47.38982238,0.69350655,,,1,
+StopArea:OCE87487603,"gare de Saumur",,47.26897591,-0.07141926,,,1,
+StopArea:OCE87484006,"gare de Angers-St-Laud",,47.46443417,-0.55694922,,,1,
+StopArea:OCE87722025,"gare de Lyon-Perrache",,45.74849243,4.82574778,,,1,
+StopArea:OCE87584052,"gare de Libourne",,44.91588654,-0.23636698,,,1,
+StopArea:OCE87584516,"gare de Coutras",,45.03665571,-0.13142822,,,1,
+StopArea:OCE87595298,"gare de Mussidan",,45.0343812,0.35407842,,,1,
+StopArea:OCE87595009,"gare de Périgueux",,45.18716358,0.70718103,,,1,
+StopArea:OCE87595124,"gare de Thiviers",,45.41895633,0.92135472,,,1,
+StopArea:OCE87595322,"gare de Montpon-Ménestérol",,45.00628347,0.15933932,,,1,
+StopArea:OCE87595249,"gare de St-Astier",,45.13901778,0.52282701,,,1,
+StopArea:OCE87595512,"gare de Niversac",,45.13819266,0.80813354,,,1,
+StopArea:OCE87594382,"gare de Condat-le-Lardin",,45.12671615,1.22665077,,,1,
+StopArea:OCE87594408,"gare de Terrasson",,45.13568774,1.30051202,,,1,
+StopArea:OCE87594499,"gare de Tulle",,45.25870825,1.75644188,,,1,
+StopArea:OCE87594119,"gare de Corrèze",,45.32933741,1.88038455,,,1,
+StopArea:OCE87594168,"gare de Egletons",,45.40231499,2.0651445,,,1,
+StopArea:OCE87594275,"gare de Meymac",,45.53024141,2.16388288,,,1,
+StopArea:OCE87594093,"gare de Ussel",,45.55733329,2.31444322,,,1,
+StopArea:OCE87641241,"gare de Eygurande-Merlines",,45.64532702,2.46098561,,,1,
+StopArea:OCE87641274,"gare de Laqueuille",,45.6469584,2.70494345,,,1,
+StopArea:OCE87734038,"gare de Royat-Chamalières",,45.76757925,3.06151066,,,1,
+StopArea:OCE87734004,"gare de Clermont-Ferrand",,45.77856939,3.10051901,,,1,
+StopArea:OCE87595579,"gare de Thenon",,45.16007925,1.06863499,,,1,
+StopArea:OCE87734053,"gare de Riom-Châtel-Guyon",,45.88984232,3.1208132,,,1,
+StopArea:OCE87732008,"gare de Vichy",,46.12697267,3.43049183,,,1,
+StopArea:OCE87721472,"gare de Tarare",,45.88978808,4.43907466,,,1,
+StopArea:OCE87741009,"gare de Chambéry-Chal.-les-Eaux",,45.57104551,5.91980692,,,1,
+StopArea:OCE87741132,"gare de Aix-les-Bains-le-Revard",,45.68786503,5.90935175,,,1,
+StopArea:OCE87746149,"gare de Rumilly",,45.86306575,5.94795935,,,1,
+StopArea:OCE87746008,"gare de Annecy",,45.90206721,6.12182569,,,1,
+StopArea:OCE87746305,"gare de La Roche-sur-Foron",,46.067678,6.30374377,,,1,
+StopArea:OCE87746370,"gare de Cluses (Hte-Savoie)",,46.06142103,6.58268285,,,1,
+StopArea:OCE87746438,"gare de Sallanches-Comb.Megève",,45.93567659,6.63647694,,,1,
+StopArea:OCE87746479,"gare de St-Gervais-L-B-Le-Fayet",,45.90647016,6.70071726,,,1,
+StopArea:OCE87741793,"gare de Bourg-St-Maurice",,45.61852872,6.77148871,,,1,
+StopArea:OCE87741777,"gare de Landry",,45.57420721,6.73387871,,,1,
+StopArea:OCE87741769,"gare de Aime-la-Plagne",,45.55436967,6.64889569,,,1,
+StopArea:OCE87741728,"gare de Moûtiers-Salins-Brides",,45.48648182,6.53138813,,,1,
+StopArea:OCE87741645,"gare de Albertville",,45.6731881,6.38324971,,,1,
+StopArea:OCE87757518,"gare de Fréjus-Gare-Autotrain",,43.42878101,6.75500091,,,1,
+StopArea:OCE87761007,"gare de Valence-Ville",,44.92807545,4.89330406,,,1,
+StopArea:OCE87763607,"gare de Briançon",,44.88980771,6.63295535,,,1,
+StopArea:OCE87763557,"gare de L'Argentière-les-Ecrins",,44.7910068,6.55640777,,,1,
+StopArea:OCE87763508,"gare de Montdauphin-Guillestre",,44.67460414,6.61562557,,,1,
+StopArea:OCE87763466,"gare de Embrun",,44.56696019,6.49673937,,,1,
+StopArea:OCE87763003,"gare de Gap",,44.56369648,6.0856963,,,1,
+StopArea:OCE87763300,"gare de Veynes-Dévoluy",,44.53199766,5.81583098,,,1,
+StopArea:OCE87763425,"gare de Chorges",,44.54570494,6.27205927,,,1,
+StopArea:OCE87761841,"gare de Die",,44.75821543,5.36326718,,,1,
+StopArea:OCE87761783,"gare de Crest",,44.73018811,5.01611173,,,1,
+StopArea:OCE87761874,"gare de Luc-en-Diois",,44.61368951,5.45462877,,,1,
+StopArea:OCE87696229,"gare de Fourchambault",,47.01923359,3.08730066,,,1,
+StopArea:OCE87696211,"gare de Pougues-les-Eaux",,47.07697512,3.09382268,,,1,
+StopArea:OCE87696195,"gare de La-Charité-sur-Loire",,47.18099521,3.02401397,,,1,
+StopArea:OCE87696179,"gare de Pouilly-sur-Loire",,47.28216962,2.96606338,,,1,
+StopArea:OCE87696146,"gare de Cosne-sur-Loire",,47.41402574,2.93208865,,,1,
+StopArea:OCE87696088,"gare de Briare",,47.64649868,2.73368519,,,1,
+StopArea:OCE87684290,"gare de Gien",,47.69888288,2.63675237,,,1,
+StopArea:OCE87684274,"gare de Nogent-sur-Vernisson",,47.85285011,2.73763662,,,1,
+StopArea:OCE87684001,"gare de Montargis",,48.00718027,2.74297582,,,1,
+StopArea:OCE87686667,"gare de Paris-Bercy",,48.83921547,2.38279933,,,1,
+StopArea:OCE87696161,"gare de Tracy-Sancerre",,47.33691002,2.88050833,,,1,
+StopArea:OCE87684126,"gare de Nemours-St-Pierre",,48.26790887,2.68565411,,,1,
+StopArea:OCE87116137,"gare de Longueville (S.-et-M.)",,48.51351115,3.24968453,,,1,
+StopArea:OCE87713040,"gare de Dijon-Ville",,47.32340686,5.02729102,,,1,
+StopArea:OCE87713008,"gare de Dijon-Porte-Neuve",,47.3227998,5.05486416,,,1,
+StopArea:OCE87713859,"gare de Is-sur-Tille",,47.52022809,5.12983281,,,1,
+StopArea:OCE87295006,"gare de Maubeuge",,50.27280932,3.96641315,,,1,
+StopArea:OCE87295600,"gare de Aulnoye Aymeries",,50.19733489,3.84324067,,,1,
+StopArea:OCE87295220,"gare de Le Cateau",,50.0914675,3.54002229,,,1,
+StopArea:OCE87444208,"gare de Mézidon",,49.07086722,-0.07496612,,,1,
+StopArea:OCE87444695,"gare de Sées",,48.60016092,0.16611181,,,1,
+StopArea:OCE87444711,"gare de Alençon",,48.43380326,0.09905038,,,1,
+StopArea:OCE87396002,"gare de Le Mans",,47.9955866,0.19214286,,,1,
+StopArea:OCE87396606,"gare de Château-du-Loir",,47.68328173,0.41498602,,,1,
+StopArea:OCE87396564,"gare de Ecommoy",,47.82453334,0.26901762,,,1,
+StopArea:OCE87444588,"gare de Le Merlerault",,48.70241495,0.28349405,,,1,
+StopArea:OCE87444604,"gare de Ste-Gauburge",,48.71726323,0.42810818,,,1,
+StopArea:OCE87393553,"gare de Nonancourt",,48.77575452,1.19280226,,,1,
+StopArea:OCE87387092,"gare de Bueil",,48.92508991,1.44377555,,,1,
+StopArea:OCE87381624,"gare de Bréval",,48.94312632,1.54133018,,,1,
+StopArea:OCE87387159,"gare de Conches",,48.96234048,0.93896455,,,1,
+StopArea:OCE87387183,"gare de Beaumont-le-Roger",,49.07418071,0.77262494,,,1,
+StopArea:OCE87444315,"gare de Serquigny",,49.1076727,0.71957679,,,1,
+StopArea:OCE87476671,"gare de Questembert",,47.68313102,-2.44966901,,,1,
+StopArea:OCE87476259,"gare de Hennebont",,47.79893044,-3.28565674,,,1,
+StopArea:OCE87476317,"gare de Quimperlé",,47.86906313,-3.55301115,,,1,
+StopArea:OCE87474155,"gare de Rosporden",,47.96018968,-3.83275774,,,1,
+StopArea:OCE87543009,"gare de Orléans",,47.90815267,1.90475291,,,1,
+StopArea:OCE87574004,"gare de Blois",,47.58542729,1.32372923,,,1,
+StopArea:OCE87574343,"gare de Amboise",,47.42143479,0.98122701,,,1,
+StopArea:OCE87672139,"gare de Coarraze-Nay",,43.18183571,-0.24174504,,,1,
+StopArea:OCE87671123,"gare de Lannemezan",,43.114313,0.387694,,,1,
+StopArea:OCE87672337,"gare de Peyrehorade",,43.54677517,-1.1157828,,,1,
+StopArea:OCE87175091,"gare de Joinville",,48.44475013,5.14428738,,,1,
+StopArea:OCE87175000,"gare de St-Dizier",,48.6428056,4.94718655,,,1,
+StopArea:OCE87174276,"gare de Vitry-le-François",,48.7177326,4.58723196,,,1,
+StopArea:OCE87174003,"gare de Châlons-en-Champagne",,48.9555093,4.34895439,,,1,
+StopArea:OCE87174409,"gare de Mourmelon-le-Petit",,49.13122492,4.31771739,,,1,
+StopArea:OCE87171009,"gare de Reims",,49.25906626,4.02401739,,,1,
+StopArea:OCE87781609,"gare de Bédarieux",,43.60763168,3.14900526,,,1,
+StopArea:OCE87781583,"gare de Le Bousquet-d'Orb",,43.69154683,3.16838545,,,1,
+StopArea:OCE87781542,"gare de Ceilhes-Roqueredonde",,43.81213096,3.15529906,,,1,
+StopArea:OCE87783456,"gare de Tournemire-Roquefort",,43.96998315,3.01658021,,,1,
+StopArea:OCE87783431,"gare de St-Rome-de-Cernon",,44.0145748,2.96761728,,,1,
+StopArea:OCE87783423,"gare de St-Georges-de-Luzençon",,44.066027,2.983915,,,1,
+StopArea:OCE87783001,"gare de Millau",,44.101871,3.074906,,,1,
+StopArea:OCE87783365,"gare de Sévérac-le-Château",,44.325206,3.057398,,,1,
+StopArea:OCE87783340,"gare de Campagnac-St-Geniez",,44.42213426,3.0661302,,,1,
+StopArea:OCE87783324,"gare de Banassac-la-Canourgue",,44.44764172,3.19621014,,,1,
+StopArea:OCE87783282,"gare de Marvejols",,44.54461586,3.28104757,,,1,
+StopArea:OCE87783266,"gare de Aumont-Aubrac",,44.71813975,3.28341528,,,1,
+StopArea:OCE87783241,"gare de St-Chély-d'Apcher",,44.80170127,3.2707413,,,1,
+StopArea:OCE87783175,"gare de St-Flour-Chaudes-Aigues",,45.03484547,3.1061669,,,1,
+StopArea:OCE87645507,"gare de Neussargues",,45.12538988,2.9791294,,,1,
+StopArea:OCE87734871,"gare de Massiac-Blesle",,45.25370877,3.19658707,,,1,
+StopArea:OCE87734251,"gare de Arvant",,45.36539097,3.31050039,,,1,
+StopArea:OCE87734244,"gare de Brassac-les-Mines",,45.41410256,3.3299412,,,1,
+StopArea:OCE87734202,"gare de Issoire",,45.54395839,3.25408013,,,1,
+StopArea:OCE87781666,"gare de Magalas",,43.46775546,3.22950007,,,1,
+StopArea:OCE87782607,"gare de Clermont-la-Pardieu",,45.7669541,3.13421493,,,1,
+StopArea:OCE87734269,"gare de Brioude",,45.30066378,3.37868201,,,1,
+StopArea:OCE87734319,"gare de Langeac",,45.1012257,3.49058385,,,1,
+StopArea:OCE87734350,"gare de Langogne",,44.7326118,3.85727921,,,1,
+StopArea:OCE87775171,"gare de La Bastide-St-Laurent",,44.59257871,3.9038543,,,1,
+StopArea:OCE87775197,"gare de Villefort",,44.43943976,3.9233213,,,1,
+StopArea:OCE87775213,"gare de Génolhac",,44.3480183,3.95182223,,,1,
+StopArea:OCE87775254,"gare de Grand-Combe-la-Pise",,44.20994871,4.03346666,,,1,
+StopArea:OCE87775288,"gare de Alès",,44.12812568,4.084779,,,1,
+StopArea:OCE87734301,"gare de St-Georges-d'Aurac",,45.16060143,3.49470916,,,1,
+StopArea:OCE87171553,"gare de Epernay",,49.04652108,3.96020987,,,1,
+StopArea:OCE87171561,"gare de Ay",,49.04879162,4.00164432,,,1,
+StopArea:OCE87171587,"gare de Germaine",,49.12794211,4.02249493,,,1,
+StopArea:OCE87171595,"gare de Rilly-la-Montagne",,49.16720399,4.04117098,,,1,
+StopArea:OCE87171272,"gare de Reims-Maison-Blanche",,49.23339239,4.02270931,,,1,
+StopArea:OCE87417444,"gare de Franchet-D'espèrey",,49.84250782,4.75059106,,,1,
+StopArea:OCE87172270,"gare de Rethel",,49.50457068,4.37028428,,,1,
+StopArea:OCE87172171,"gare de Poix-Terron",,50.24995056,5.37301501,,,1,
+StopArea:OCE87172007,"gare de Charleville-Mézières",,49.76742007,4.7248489,,,1,
+StopArea:OCE87172254,"gare de Sedan",,49.69486091,4.92998882,,,1,
+StopArea:OCE87172353,"gare de Carignan",,49.62852048,5.16846771,,,1,
+StopArea:OCE87194209,"gare de Montmédy",,49.52279302,5.37104834,,,1,
+StopArea:OCE87194274,"gare de Longuyon",,49.44427705,5.60459921,,,1,
+StopArea:OCE87191239,"gare de Hayange",,49.33041651,6.07316506,,,1,
+StopArea:OCE87171462,"gare de Bazancourt",,49.36099945,4.17395159,,,1,
+StopArea:OCE87172155,"gare de Mohon",,49.75264663,4.73325217,,,1,
+StopArea:OCE87172213,"gare de Nouvion-sur-Meuse",,49.69697569,4.79493184,,,1,
+StopArea:OCE87191130,"gare de Uckange",,49.30319466,6.15615702,,,1,
+StopArea:OCE87172262,"gare de Amagne-Lucquy",,49.52372788,4.47374998,,,1,
+StopArea:OCE87295733,"gare de Avesnes",,50.12669335,3.9329446,,,1,
+StopArea:OCE87295709,"gare de Sains du Nord",,50.08890355,4.00159834,,,1,
+StopArea:OCE87295048,"gare de Fourmies",,50.01536452,4.05360091,,,1,
+StopArea:OCE87295055,"gare de Anor",,49.9850035,4.09336192,,,1,
+StopArea:OCE87295063,"gare de Hirson",,49.91458363,4.08430147,,,1,
+StopArea:OCE87295808,"gare de Berlaimont",,50.19804557,3.81051233,,,1,
+StopArea:OCE87295857,"gare de Le Quesnoy (Nord)",,50.25021333,3.64551384,,,1,
+StopArea:OCE87343210,"gare de Le Poirier Université",,50.33001182,3.50255729,,,1,
+StopArea:OCE87343004,"gare de Valenciennes",,50.36324494,3.51712178,,,1,
+StopArea:OCE87343103,"gare de St-Amand-les-Eaux",,50.4432364,3.41936044,,,1,
+StopArea:OCE87286575,"gare de Landas",,50.46859891,3.2905983,,,1,
+StopArea:OCE87286583,"gare de Orchies",,50.47705568,3.24889,,,1,
+StopArea:OCE87286625,"gare de Templeuve",,50.52868236,3.17560663,,,1,
+StopArea:OCE87286641,"gare de Fretin (Nord)",,50.55985073,3.14953035,,,1,
+StopArea:OCE87286849,"gare de Lesquin",,50.59070914,3.11770858,,,1,
+StopArea:OCE87286005,"gare de Lille Flandres",,50.63620695,3.07103283,,,1,
+StopArea:OCE87286567,"gare de Rosult",,50.45642151,3.34886673,,,1,
+StopArea:OCE87295790,"gare de Leval",,50.18454825,3.83665872,,,1,
+StopArea:OCE87295774,"gare de Dompierre (Nord)",,50.14601014,3.87098544,,,1,
+StopArea:OCE87297531,"gare de St Hilaire",,50.1320165,3.91355233,,,1,
+StopArea:OCE87295725,"gare de Avesnelles",,50.11849367,3.94852821,,,1,
+StopArea:OCE87324335,"gare de Hirson-Ecoles",,49.92965646,4.08538355,,,1,
+StopPoint:OCECorail Intercité-87184002,"gare de Belfort-Ville",,47.63322782,6.85410605,,,0,StopArea:OCE87184002
+StopPoint:OCECorail Intercité-87185249,"gare de Lure",,47.6832566,6.49256598,,,0,StopArea:OCE87185249
+StopPoint:OCECorail Intercité-87185009,"gare de Vesoul",,47.61780079,6.15177512,,,0,StopArea:OCE87185009
+StopPoint:OCECorail Intercité-87142125,"gare de Culmont-Chalindrey",,47.81023471,5.44322417,,,0,StopArea:OCE87142125
+StopPoint:OCECorail Intercité-87142000,"gare de Chaumont",,48.10945433,5.13444549,,,0,StopArea:OCE87142000
+StopPoint:OCECorail Intercité-87118000,"gare de Troyes",,48.29503007,4.06538402,,,0,StopArea:OCE87118000
+StopPoint:OCECorail Intercité-87113001,"gare de Paris-Est",,48.8765748,2.3591532,,,0,StopArea:OCE87113001
+StopPoint:OCECorail Intercité-87118158,"gare de Romilly-sur-Seine",,48.51417327,3.72833188,,,0,StopArea:OCE87118158
+StopPoint:OCECorail Intercité-87118190,"gare de Nogent-sur-Seine",,48.49783702,3.4937079,,,0,StopArea:OCE87118190
+StopPoint:OCECorail Intercité-87142091,"gare de Langres",,47.87725486,5.34468027,,,0,StopArea:OCE87142091
+StopPoint:OCECorail Intercité-87118299,"gare de Bar-sur-Aube",,48.23854994,4.70683803,,,0,StopArea:OCE87118299
+StopPoint:OCECorail Intercité-87118257,"gare de Vendeuvre (Aube)",,48.24033602,4.46718837,,,0,StopArea:OCE87118257
+StopPoint:OCECorail Intercité-87317586,"gare de Boulogne Ville",,50.71560619,1.6103283,,,0,StopArea:OCE87317586
+StopPoint:OCECorail Intercité-87317065,"gare de Etaples Le Touquet",,50.51672171,1.64250182,,,0,StopArea:OCE87317065
+StopPoint:OCECorail Intercité-87317057,"gare de Rang du Fl. Verton Ber.",,50.41581436,1.64808588,,,0,StopArea:OCE87317057
+StopPoint:OCECorail Intercité-87317404,"gare de Rue",,50.27315448,1.67583768,,,0,StopArea:OCE87317404
+StopPoint:OCECorail Intercité-87317396,"gare de Noyelles-sur-Mer",,50.18702017,1.70453407,,,0,StopArea:OCE87317396
+StopPoint:OCECorail Intercité-87317362,"gare de Abbeville",,50.10195959,1.82422275,,,0,StopArea:OCE87317362
+StopPoint:OCECorail Intercité-87313874,"gare de Amiens",,49.89053731,2.30810518,,,0,StopArea:OCE87313874
+StopPoint:OCECorail Intercité-87313049,"gare de Longueau",,49.86429987,2.35203366,,,0,StopArea:OCE87313049
+StopPoint:OCECorail Intercité-87271007,"gare de Paris-Nord",,48.88014229,2.35489377,,,0,StopArea:OCE87271007
+StopPoint:OCECorail Intercité-87276006,"gare de Creil",,49.26409256,2.46905706,,,0,StopArea:OCE87276006
+StopPoint:OCECorail Intercité-87313304,"gare de Clermont-de-l'Oise",,49.38544509,2.41751935,,,0,StopArea:OCE87313304
+StopPoint:OCECorail Intercité-87313270,"gare de St-Just-SNCF",,49.50356749,2.42930906,,,0,StopArea:OCE87313270
+StopPoint:OCECorail Intercité-87345520,"gare de Cambrai Ville",,50.17747056,3.24032313,,,0,StopArea:OCE87345520
+StopPoint:OCECorail Intercité-87345561,"gare de Caudry",,50.11137456,3.40962458,,,0,StopArea:OCE87345561
+StopPoint:OCECorail Intercité-87296244,"gare de Busigny",,50.03946583,3.44589109,,,0,StopArea:OCE87296244
+StopPoint:OCECorail Intercité-87296004,"gare de St Quentin",,49.83969794,3.29707829,,,0,StopArea:OCE87296004
+StopPoint:OCECorail Intercité-87276782,"gare de Noyon",,49.5773461,3.00638067,,,0,StopArea:OCE87276782
+StopPoint:OCECorail Intercité-87276691,"gare de Compiègne",,49.4227186,2.82444244,,,0,StopArea:OCE87276691
+StopPoint:OCECorail Intercité-87296442,"gare de Tergnier",,49.6592459,3.29722866,,,0,StopArea:OCE87296442
+StopPoint:OCECorail Intercité-87296616,"gare de Chauny",,49.61046776,3.22265067,,,0,StopArea:OCE87296616
+StopPoint:OCECorail Intercité-87276329,"gare de Pont-Ste-Maxence",,49.30986209,2.60223502,,,0,StopArea:OCE87276329
+StopPoint:OCECorail Intercité-87413013,"gare de Le Havre",,49.49265375,0.12483519,,,0,StopArea:OCE87413013
+StopPoint:OCECorail Intercité-87413344,"gare de Bréauté-Beuzeville",,49.60359483,0.41716198,,,0,StopArea:OCE87413344
+StopPoint:OCECorail Intercité-87413385,"gare de Yvetot",,49.62211267,0.75007177,,,0,StopArea:OCE87413385
+StopPoint:OCECorail Intercité-87411017,"gare de Rouen-Rive-Droite",,49.44903873,1.09416695,,,0,StopArea:OCE87411017
+StopPoint:OCECorail Intercité-87411207,"gare de Oissel",,49.34304288,1.10183123,,,0,StopArea:OCE87411207
+StopPoint:OCECorail Intercité-87415877,"gare de Val-de-Reuil",,49.27540789,1.22461228,,,0,StopArea:OCE87415877
+StopPoint:OCECorail Intercité-87415620,"gare de Gaillon-Aubevoye",,49.1746337,1.35252015,,,0,StopArea:OCE87415620
+StopPoint:OCECorail Intercité-87415604,"gare de Vernon (Eure)",,49.09128574,1.47836264,,,0,StopArea:OCE87415604
+StopPoint:OCECorail Intercité-87381509,"gare de Mantes-la-Jolie",,48.98968735,1.70329418,,,0,StopArea:OCE87381509
+StopPoint:OCECorail Intercité-87384008,"gare de Paris-St-Lazare",,48.87786526,2.32443291,,,0,StopArea:OCE87384008
+StopPoint:OCECorail Intercité-87415018,"gare de Dieppe",,49.92124662,1.08113685,,,0,StopArea:OCE87415018
+StopPoint:OCECorail Intercité-87444877,"gare de Cherbourg",,49.63350159,-1.62145989,,,0,StopArea:OCE87444877
+StopPoint:OCECorail Intercité-87447284,"gare de Valognes",,49.50538585,-1.4803232,,,0,StopArea:OCE87447284
+StopPoint:OCECorail Intercité-87447243,"gare de Carentan",,49.30180335,-1.2420982,,,0,StopArea:OCE87447243
+StopPoint:OCECorail Intercité-87444000,"gare de Caen",,49.17654371,-0.34826957,,,0,StopArea:OCE87444000
+StopPoint:OCECorail Intercité-87444265,"gare de Lisieux",,49.1372519,0.23168224,,,0,StopArea:OCE87444265
+StopPoint:OCECorail Intercité-87444299,"gare de Bernay",,49.08698855,0.595728,,,0,StopArea:OCE87444299
+StopPoint:OCECorail Intercité-87387001,"gare de Evreux - Normandie",,49.01855876,1.14988767,,,0,StopArea:OCE87387001
+StopPoint:OCECorail Intercité-87447219,"gare de Lison",,49.22705349,-1.05028492,,,0,StopArea:OCE87447219
+StopPoint:OCECorail Intercité-87444067,"gare de Bayeux",,49.2694443,-0.69771168,,,0,StopArea:OCE87444067
+StopPoint:OCECorail Intercité-87444349,"gare de Pont-l'Evêque",,49.28702429,0.19196911,,,0,StopArea:OCE87444349
+StopPoint:OCECorail Intercité-87444372,"gare de Trouville-Deauville",,49.35849952,0.08484284,,,0,StopArea:OCE87444372
+StopPoint:OCECorail Intercité-87447680,"gare de Granville",,48.83884408,-1.58677824,,,0,StopArea:OCE87447680
+StopPoint:OCECorail Intercité-87447698,"gare de Villedieu (Gare)",,48.83415156,-1.22545495,,,0,StopArea:OCE87447698
+StopPoint:OCECorail Intercité-87448159,"gare de Vire",,48.84635383,-0.88316925,,,0,StopArea:OCE87448159
+StopPoint:OCECorail Intercité-87448001,"gare de Flers",,48.74437263,-0.57368061,,,0,StopArea:OCE87448001
+StopPoint:OCECorail Intercité-87448084,"gare de Briouze",,48.70200316,-0.36744375,,,0,StopArea:OCE87448084
+StopPoint:OCECorail Intercité-87444539,"gare de Argentan",,48.73845947,-0.02572377,,,0,StopArea:OCE87444539
+StopPoint:OCECorail Intercité-87444562,"gare de Surdon",,48.66490121,0.1341297,,,0,StopArea:OCE87444562
+StopPoint:OCECorail Intercité-87444638,"gare de L'Aigle",,48.7666838,0.62073331,,,0,StopArea:OCE87444638
+StopPoint:OCECorail Intercité-87393595,"gare de Verneuil-sur-Avre",,48.74273915,0.9292136,,,0,StopArea:OCE87393595
+StopPoint:OCECorail Intercité-87393488,"gare de Dreux",,48.731491,1.37016894,,,0,StopArea:OCE87393488
+StopPoint:OCECorail Intercité-87391003,"gare de Paris-Montparnasse 1-2",,48.83982078,2.31879179,,,0,StopArea:OCE87391003
+StopPoint:OCECorail Intercité-87391102,"gare de Paris-Montp.3-Vaug.",,48.83738466,2.31585181,,,0,StopArea:OCE87391102
+StopPoint:OCECorail Intercité-87447649,"gare de Folligny",,48.82915304,-1.40639963,,,0,StopArea:OCE87447649
+StopPoint:OCECorail Intercité-87393009,"gare de Versailles-Chantiers",,48.79556635,2.13546496,,,0,StopArea:OCE87393009
+StopPoint:OCECorail Intercité-87592006,"gare de Limoges-Bénédictins",,45.83621183,1.26746188,,,0,StopArea:OCE87592006
+StopPoint:OCECorail Intercité-87592378,"gare de La Souterraine",,46.23997619,1.49239946,,,0,StopArea:OCE87592378
+StopPoint:OCECorail Intercité-87597005,"gare de Châteauroux",,46.80982665,1.69946894,,,0,StopArea:OCE87597005
+StopPoint:OCECorail Intercité-87597062,"gare de Issoudun",,46.94784857,1.98492117,,,0,StopArea:OCE87597062
+StopPoint:OCECorail Intercité-87576009,"gare de Vierzon",,47.22651956,2.05983475,,,0,StopArea:OCE87576009
+StopPoint:OCECorail Intercité-87547000,"gare de Paris-Austerlitz",,48.8416601,2.36604091,,,0,StopArea:OCE87547000
+StopPoint:OCECorail Intercité-87597120,"gare de Argenton-sur-Creuse",,46.59223205,1.51823235,,,0,StopArea:OCE87597120
+StopPoint:OCECorail Intercité-87594002,"gare de Brive-la-Gaillarde",,45.15263087,1.52813841,,,0,StopArea:OCE87594002
+StopPoint:OCECorail Intercité-87594200,"gare de Uzerche",,45.44057584,1.5702286,,,0,StopArea:OCE87594200
+StopPoint:OCECorail Intercité-87543017,"gare de Les Aubrais-Orléans",,47.92691735,1.90608452,,,0,StopArea:OCE87543017
+StopPoint:OCECorail Intercité-87613000,"gare de Cahors",,44.44915105,1.43323755,,,0,StopArea:OCE87613000
+StopPoint:OCECorail Intercité-87613141,"gare de Gourdon",,44.74190176,1.38927693,,,0,StopArea:OCE87613141
+StopPoint:OCECorail Intercité-87594333,"gare de Souillac",,44.90233724,1.4652148,,,0,StopArea:OCE87594333
+StopPoint:OCECorail Intercité-87611004,"gare de Toulouse-Matabiau",,43.61147083,1.45356421,,,0,StopArea:OCE87611004
+StopPoint:OCECorail Intercité-87613356,"gare de Caussade (T.-et-G.)",,44.16230407,1.5334529,,,0,StopArea:OCE87613356
+StopPoint:OCECorail Intercité-87611244,"gare de Montauban-Ville-Bourbon",,44.014648,1.34197901,,,0,StopArea:OCE87611244
+StopPoint:OCECorail Intercité-87785006,"gare de Cerbère",,42.44276389,3.16552461,,,0,StopArea:OCE87785006
+StopPoint:OCECorail Intercité-87784298,"gare de Banyuls-sur-Mer",,42.48261944,3.12441085,,,0,StopArea:OCE87784298
+StopPoint:OCECorail Intercité-87784264,"gare de Port-Vendres",,42.51338125,3.10238579,,,0,StopArea:OCE87784264
+StopPoint:OCECorail Intercité-87784256,"gare de Collioure",,42.5268923,3.07872086,,,0,StopArea:OCE87784256
+StopPoint:OCECorail Intercité-87784231,"gare de Argelès-sur-Mer",,42.54395093,3.02150018,,,0,StopArea:OCE87784231
+StopPoint:OCECorail Intercité-87784207,"gare de Elne",,42.59736926,2.96352068,,,0,StopArea:OCE87784207
+StopPoint:OCECorail Intercité-87784009,"gare de Perpignan",,42.69607483,2.87961698,,,0,StopArea:OCE87784009
+StopPoint:OCECorail Intercité-87781104,"gare de Narbonne",,43.19103322,3.00595633,,,0,StopArea:OCE87781104
+StopPoint:OCECorail Intercité-87615286,"gare de Carcassonne",,43.217718,2.35189,,,0,StopArea:OCE87615286
+StopPoint:OCECorail Intercité-87615039,"gare de Castelnaudary",,43.31265,1.951,,,0,StopArea:OCE87615039
+StopPoint:OCECorail Lunéa-87785006,"gare de Cerbère",,42.44276389,3.16552461,,,0,StopArea:OCE87785006
+StopPoint:OCECorail Lunéa-87784298,"gare de Banyuls-sur-Mer",,42.48261944,3.12441085,,,0,StopArea:OCE87784298
+StopPoint:OCECorail Lunéa-87784264,"gare de Port-Vendres",,42.51338125,3.10238579,,,0,StopArea:OCE87784264
+StopPoint:OCECorail Lunéa-87784256,"gare de Collioure",,42.5268923,3.07872086,,,0,StopArea:OCE87784256
+StopPoint:OCECorail Lunéa-87784231,"gare de Argelès-sur-Mer",,42.54395093,3.02150018,,,0,StopArea:OCE87784231
+StopPoint:OCECorail Lunéa-87784207,"gare de Elne",,42.59736926,2.96352068,,,0,StopArea:OCE87784207
+StopPoint:OCECorail Lunéa-87784009,"gare de Perpignan",,42.69607483,2.87961698,,,0,StopArea:OCE87784009
+StopPoint:OCECorail Lunéa-87781104,"gare de Narbonne",,43.19103322,3.00595633,,,0,StopArea:OCE87781104
+StopPoint:OCECorail Lunéa-87615112,"gare de Lézignan-Corbières",,43.19997074,2.76985676,,,0,StopArea:OCE87615112
+StopPoint:OCECorail Lunéa-87615286,"gare de Carcassonne",,43.217718,2.35189,,,0,StopArea:OCE87615286
+StopPoint:OCECorail Lunéa-87615039,"gare de Castelnaudary",,43.31265,1.951,,,0,StopArea:OCE87615039
+StopPoint:OCECorail Lunéa-87611004,"gare de Toulouse-Matabiau",,43.61147083,1.45356421,,,0,StopArea:OCE87611004
+StopPoint:OCECorail Lunéa-87576009,"gare de Vierzon",,47.22651956,2.05983475,,,0,StopArea:OCE87576009
+StopPoint:OCECorail Lunéa-87543017,"gare de Les Aubrais-Orléans",,47.92691735,1.90608452,,,0,StopArea:OCE87543017
+StopPoint:OCECorail Lunéa-87547000,"gare de Paris-Austerlitz",,48.8416601,2.36604091,,,0,StopArea:OCE87547000
+StopPoint:OCECorail Lunéa-87592006,"gare de Limoges-Bénédictins",,45.83621183,1.26746188,,,0,StopArea:OCE87592006
+StopPoint:OCECorail Lunéa-71793150,"gare de Port-Bou",,43.02469957,3.89457088,,,0,StopArea:OCE71793150
+StopPoint:OCECorail Lunéa-87613000,"gare de Cahors",,44.44915105,1.43323755,,,0,StopArea:OCE87613000
+StopPoint:OCECorail Lunéa-87611244,"gare de Montauban-Ville-Bourbon",,44.014648,1.34197901,,,0,StopArea:OCE87611244
+StopPoint:OCECorail Lunéa-87594333,"gare de Souillac",,44.90233724,1.4652148,,,0,StopArea:OCE87594333
+StopPoint:OCECorail Lunéa-87613141,"gare de Gourdon",,44.74190176,1.38927693,,,0,StopArea:OCE87613141
+StopPoint:OCECorail Lunéa-87613356,"gare de Caussade (T.-et-G.)",,44.16230407,1.5334529,,,0,StopArea:OCE87613356
+StopPoint:OCECorail Lunéa-87594572,"gare de St-Denis-près-Martel",,44.94579181,1.6662866,,,0,StopArea:OCE87594572
+StopPoint:OCECorail Lunéa-87613042,"gare de Rocamadour-Padirac",,44.81791104,1.65744503,,,0,StopArea:OCE87613042
+StopPoint:OCECorail Lunéa-87613059,"gare de Gramat",,44.77349191,1.72238031,,,0,StopArea:OCE87613059
+StopPoint:OCECorail Lunéa-87613075,"gare de Assier",,44.67460037,1.86974926,,,0,StopArea:OCE87613075
+StopPoint:OCECorail Lunéa-87613091,"gare de Figeac",,44.603522,2.037079,,,0,StopArea:OCE87613091
+StopPoint:OCECorail Lunéa-87613109,"gare de Capdenac",,44.57766,2.078905,,,0,StopArea:OCE87613109
+StopPoint:OCECorail Lunéa-87613661,"gare de Viviez-Decazeville",,44.55703965,2.21802392,,,0,StopArea:OCE87613661
+StopPoint:OCECorail Lunéa-87613224,"gare de Aubin",,44.52736111,2.23956396,,,0,StopArea:OCE87613224
+StopPoint:OCECorail Lunéa-87613232,"gare de Cransac",,44.52306284,2.27076675,,,0,StopArea:OCE87613232
+StopPoint:OCECorail Lunéa-87613257,"gare de St-Christophe",,44.46468683,2.407487,,,0,StopArea:OCE87613257
+StopPoint:OCECorail Lunéa-87613422,"gare de Rodez",,44.36265218,2.58025315,,,0,StopArea:OCE87613422
+StopPoint:OCECorail Lunéa-87615005,"gare de Albi-Ville",,43.922039,2.138643,,,0,StopArea:OCE87615005
+StopPoint:OCECorail Lunéa-87615195,"gare de Albi-Madeleine.",,43.93790598,2.14116976,,,0,StopArea:OCE87615195
+StopPoint:OCECorail Lunéa-87615625,"gare de Carmaux",,44.04901,2.152398,,,0,StopArea:OCE87615625
+StopPoint:OCECorail Lunéa-87615732,"gare de Naucelle",,44.1856517,2.36344312,,,0,StopArea:OCE87615732
+StopPoint:OCECorail Intercité-87581009,"gare de Bordeaux-St-Jean",,44.82654205,-0.55619367,,,0,StopArea:OCE87581009
+StopPoint:OCECorail Intercité-87491142,"gare de Jonzac",,45.43871422,-0.4420025,,,0,StopArea:OCE87491142
+StopPoint:OCECorail Intercité-87491001,"gare de Saintes",,45.74784288,-0.61757581,,,0,StopArea:OCE87491001
+StopPoint:OCECorail Intercité-87485144,"gare de Rochefort",,45.94741568,-0.96378831,,,0,StopArea:OCE87485144
+StopPoint:OCECorail Intercité-87485003,"gare de La Rochelle-Ville",,46.15270103,-1.14530035,,,0,StopArea:OCE87485003
+StopPoint:OCECorail Intercité-87486258,"gare de Luçon",,46.46372687,-1.16744489,,,0,StopArea:OCE87486258
+StopPoint:OCECorail Intercité-87486019,"gare de La Roche-sur-Yon",,46.67202723,-1.43567913,,,0,StopArea:OCE87486019
+StopPoint:OCECorail Intercité-87481002,"gare de Nantes",,47.21750593,-1.54191587,,,0,StopArea:OCE87481002
+StopPoint:OCECorail Intercité-87481838,"gare de Savenay",,47.35856212,-1.95102548,,,0,StopArea:OCE87481838
+StopPoint:OCECorail Intercité-87481846,"gare de Pontchâteau",,47.43533967,-2.08848572,,,0,StopArea:OCE87481846
+StopPoint:OCECorail Intercité-87471300,"gare de Redon",,47.6517633,-2.08787664,,,0,StopArea:OCE87471300
+StopPoint:OCECorail Intercité-87476606,"gare de Vannes",,47.66532376,-2.75252349,,,0,StopArea:OCE87476606
+StopPoint:OCECorail Intercité-87476200,"gare de Auray",,47.68018937,-2.99999862,,,0,StopArea:OCE87476200
+StopPoint:OCECorail Intercité-87476002,"gare de Lorient",,47.75520333,-3.36634771,,,0,StopArea:OCE87476002
+StopPoint:OCECorail Intercité-87474098,"gare de Quimper",,47.99465835,-4.09210303,,,0,StopArea:OCE87474098
+StopPoint:OCECorail Intercité-87586545,"gare de Marmande",,44.50307476,0.16811566,,,0,StopArea:OCE87586545
+StopPoint:OCECorail Intercité-87586008,"gare de Agen",,44.207977,0.620915,,,0,StopArea:OCE87586008
+StopPoint:OCECorail Intercité-87471003,"gare de Rennes",,48.10351573,-1.67231969,,,0,StopArea:OCE87471003
+StopPoint:OCECorail Intercité-87491241,"gare de St-André-de-Cubzac",,44.99117862,-0.44047772,,,0,StopArea:OCE87491241
+StopPoint:OCECorail Intercité-87491209,"gare de St-Mariens-St-Yzan",,45.13908942,-0.39167769,,,0,StopArea:OCE87491209
+StopPoint:OCECorail Intercité-87491183,"gare de Montendre",,45.28059563,-0.39605927,,,0,StopArea:OCE87491183
+StopPoint:OCECorail Intercité-87491100,"gare de Pons",,45.57808794,-0.53900142,,,0,StopArea:OCE87491100
+StopPoint:OCECorail Intercité-87485110,"gare de Gare-De-Chatelaillon-Pl",,46.07856425,-1.09120872,,,0,StopArea:OCE87485110
+StopPoint:OCECorail Intercité-87576207,"gare de Bourges",,47.09409945,2.3942365,,,0,StopArea:OCE87576207
+StopPoint:OCECorail Intercité-87543165,"gare de Salbris",,47.42514773,2.04774326,,,0,StopArea:OCE87543165
+StopPoint:OCECorail Intercité-87641001,"gare de Montluçon-Ville",,46.33787662,2.59642118,,,0,StopArea:OCE87641001
+StopPoint:OCECorail Intercité-87641357,"gare de Vallon-en-Sully",,46.5358081,2.61160754,,,0,StopArea:OCE87641357
+StopPoint:OCECorail Intercité-87576322,"gare de St-Amand-Montrond-Orval",,46.72652141,2.48606179,,,0,StopArea:OCE87576322
+StopPoint:OCECorail Intercité-87576298,"gare de Châteauneuf-sur-Cher",,46.85668799,2.31021351,,,0,StopArea:OCE87576298
+StopPoint:OCECorail Intercité-87576272,"gare de St-Florent-sur-Cher",,46.99212023,2.25215704,,,0,StopArea:OCE87576272
+StopPoint:OCECorail Lunéa-87611483,"gare de Latour-de-Carol-Enveitg",,42.45815677,1.90584041,,,0,StopArea:OCE87611483
+StopPoint:OCECorail Lunéa-87611509,"gare de Porte-Puymorens",,42.53875926,1.82484975,,,0,StopArea:OCE87611509
+StopPoint:OCECorail Lunéa-87611517,"gare de Andorre-L'Hospitalet",,42.58838649,1.79851758,,,0,StopArea:OCE87611517
+StopPoint:OCECorail Lunéa-87611525,"gare de Mérens-les-Vals",,42.65867891,1.83642817,,,0,StopArea:OCE87611525
+StopPoint:OCECorail Lunéa-87611533,"gare de Ax-les-Thermes",,42.72480983,1.83332206,,,0,StopArea:OCE87611533
+StopPoint:OCECorail Lunéa-87611574,"gare de Les Cabannes",,42.78653697,1.68617988,,,0,StopArea:OCE87611574
+StopPoint:OCECorail Lunéa-87611590,"gare de Tarascon-sur-Ariège",,42.84945283,1.60003103,,,0,StopArea:OCE87611590
+StopPoint:OCECorail Lunéa-87611616,"gare de Foix",,42.969299,1.607394,,,0,StopArea:OCE87611616
+StopPoint:OCECorail Lunéa-87611343,"gare de Pamiers",,43.116178,1.619003,,,0,StopArea:OCE87611343
+StopPoint:OCECorail Lunéa-87611368,"gare de Saverdun",,43.23942087,1.57042184,,,0,StopArea:OCE87611368
+StopPoint:OCECorail Lunéa-87611384,"gare de Auterive",,43.348835,1.46862436,,,0,StopArea:OCE87611384
+StopPoint:OCECorail Lunéa-87611558,"gare de Luzenac-Garanou",,42.76444377,1.75315369,,,0,StopArea:OCE87611558
+StopPoint:OCECorail Lunéa-87611236,"gare de Luchon",,42.79727811,0.59660863,,,0,StopArea:OCE87611236
+StopPoint:OCECorail Lunéa-87611194,"gare de Marignac-St-Béat",,42.91555023,0.65176086,,,0,StopArea:OCE87611194
+StopPoint:OCECorail Lunéa-87618710,"gare de Saléchan-Siradan",,42.96299447,0.63168928,,,0,StopArea:OCE87618710
+StopPoint:OCECorail Lunéa-87611178,"gare de Loures-Barbazan",,43.02113045,0.61044906,,,0,StopArea:OCE87611178
+StopPoint:OCECorail Lunéa-87611152,"gare de Montréjeau-Gourdan-Pol.",,43.07805685,0.5735362,,,0,StopArea:OCE87611152
+StopPoint:OCECorail Lunéa-87611137,"gare de St-Gaudens",,43.10495622,0.72926291,,,0,StopArea:OCE87611137
+StopPoint:OCECorail Lunéa-87611095,"gare de Boussens",,43.179328,0.972746,,,0,StopArea:OCE87611095
+StopPoint:OCECorail Lunéa-87611061,"gare de Carbonne",,43.29820585,1.21250881,,,0,StopArea:OCE87611061
+StopPoint:OCECorail Lunéa-87611038,"gare de Muret",,43.46478429,1.32416229,,,0,StopArea:OCE87611038
+StopPoint:OCECorail Lunéa-87677005,"gare de Hendaye",,43.35300367,-1.78186667,,,0,StopArea:OCE87677005
+StopPoint:OCECorail Lunéa-87677120,"gare de St-Jean-de-Luz-Ciboure",,43.38585017,-1.6611539,,,0,StopArea:OCE87677120
+StopPoint:OCECorail Lunéa-87673400,"gare de Biarritz",,43.45937903,-1.54600902,,,0,StopArea:OCE87673400
+StopPoint:OCECorail Lunéa-87673004,"gare de Bayonne",,43.49676401,-1.47039764,,,0,StopArea:OCE87673004
+StopPoint:OCECorail Lunéa-87673202,"gare de Dax",,43.720676,-1.05031541,,,0,StopArea:OCE87673202
+StopPoint:OCECorail Lunéa-87672253,"gare de Orthez",,43.48409996,-0.76762136,,,0,StopArea:OCE87672253
+StopPoint:OCECorail Lunéa-87672006,"gare de Pau",,43.2916699,-0.36964036,,,0,StopArea:OCE87672006
+StopPoint:OCECorail Lunéa-87671339,"gare de Lourdes",,43.10043658,-0.042183,,,0,StopArea:OCE87671339
+StopPoint:OCECorail Lunéa-87671008,"gare de Tarbes",,43.23980288,0.06940671,,,0,StopArea:OCE87671008
+StopPoint:OCECorail Lunéa-71116000,"gare de Irun",,43.33945305,-1.80131106,,,0,StopArea:OCE71116000
+StopPoint:OCECorail Lunéa-82001000,"gare de Luxembourg",,49.59965204,6.13400724,,,0,StopArea:OCE82001000
+StopPoint:OCECorail Lunéa-87191007,"gare de Thionville",,49.35393027,6.16885555,,,0,StopArea:OCE87191007
+StopPoint:OCECorail Lunéa-87192039,"gare de Metz-Ville",,49.10978917,6.17720253,,,0,StopArea:OCE87192039
+StopPoint:OCECorail Lunéa-87141002,"gare de Nancy-Ville",,48.68978616,6.17427891,,,0,StopArea:OCE87141002
+StopPoint:OCECorail Lunéa-87141044,"gare de Toul",,48.6761697,5.8643216,,,0,StopArea:OCE87141044
+StopPoint:OCECorail Lunéa-87141291,"gare de Neufchâteau",,48.35726141,5.69018834,,,0,StopArea:OCE87141291
+StopPoint:OCECorail Lunéa-87775007,"gare de Nîmes",,43.83229306,4.36583551,,,0,StopArea:OCE87775007
+StopPoint:OCECorail Lunéa-87773002,"gare de Montpellier-Saint-Roch",,43.60583439,3.88236031,,,0,StopArea:OCE87773002
+StopPoint:OCECorail Lunéa-87773200,"gare de Sète",,43.41281189,3.69639619,,,0,StopArea:OCE87773200
+StopPoint:OCECorail Lunéa-87781278,"gare de Agde",,43.31757369,3.46602019,,,0,StopArea:OCE87781278
+StopPoint:OCECorail Lunéa-87781005,"gare de Béziers",,43.345619,3.217771,,,0,StopArea:OCE87781005
+StopPoint:OCECorail Lunéa-87756056,"gare de Nice-Ville",,43.70471606,7.2617967,,,0,StopArea:OCE87756056
+StopPoint:OCECorail Lunéa-87757674,"gare de Antibes",,43.5857923,7.11952151,,,0,StopArea:OCE87757674
+StopPoint:OCECorail Lunéa-87757625,"gare de Cannes",,43.55392121,7.01972745,,,0,StopArea:OCE87757625
+StopPoint:OCECorail Lunéa-87757526,"gare de St-Raphaël-Valescure",,43.42360755,6.76901295,,,0,StopArea:OCE87757526
+StopPoint:OCECorail Lunéa-87755447,"gare de Les Arcs-Draguignan",,43.45573229,6.48246475,,,0,StopArea:OCE87755447
+StopPoint:OCECorail Lunéa-87755009,"gare de Toulon",,43.1283241,5.92946824,,,0,StopArea:OCE87755009
+StopPoint:OCECorail Lunéa-87751008,"gare de Marseille-St-Charles",,43.30273442,5.38065075,,,0,StopArea:OCE87751008
+StopPoint:OCECorail Lunéa-87753657,"gare de Arles",,43.68484578,4.63203021,,,0,StopArea:OCE87753657
+StopPoint:OCECorail Lunéa-87765008,"gare de Avignon-Centre",,43.94188067,4.80527389,,,0,StopArea:OCE87765008
+StopPoint:OCECorail Lunéa-87184002,"gare de Belfort-Ville",,47.63322782,6.85410605,,,0,StopArea:OCE87184002
+StopPoint:OCECorail Lunéa-87182063,"gare de Mulhouse",,47.74231412,7.3423325,,,0,StopArea:OCE87182063
+StopPoint:OCECorail Lunéa-87182014,"gare de Colmar",,48.07236197,7.34705873,,,0,StopArea:OCE87182014
+StopPoint:OCECorail Lunéa-87214056,"gare de Sélestat",,48.25996265,7.44319458,,,0,StopArea:OCE87214056
+StopPoint:OCECorail Lunéa-87212027,"gare de Strasbourg",,48.58511397,7.73562481,,,0,StopArea:OCE87212027
+StopPoint:OCECorail Lunéa-87142125,"gare de Culmont-Chalindrey",,47.81023471,5.44322417,,,0,StopArea:OCE87142125
+StopPoint:OCECorail Intercité-87723197,"gare de Lyon-Part-Dieu",,45.76059047,4.85944146,,,0,StopArea:OCE87723197
+StopPoint:OCECorail Intercité-87726802,"gare de Roanne",,46.04021847,4.06313892,,,0,StopArea:OCE87726802
+StopPoint:OCECorail Intercité-87732206,"gare de St-Germain-des-Fossés",,46.20885676,3.43078228,,,0,StopArea:OCE87732206
+StopPoint:OCECorail Intercité-87696328,"gare de Moulins-sur-Allier",,46.56136842,3.33876006,,,0,StopArea:OCE87696328
+StopPoint:OCECorail Intercité-87696260,"gare de Saincaize",,46.93137808,3.07197711,,,0,StopArea:OCE87696260
+StopPoint:OCECorail Intercité-87696005,"gare de Nevers",,46.98754107,3.15041249,,,0,StopArea:OCE87696005
+StopPoint:OCECorail Intercité-87571240,"gare de St-Pierre-des-Corps",,47.38573204,0.72505388,,,0,StopArea:OCE87571240
+StopPoint:OCECorail Intercité-87571000,"gare de Tours",,47.38982238,0.69350655,,,0,StopArea:OCE87571000
+StopPoint:OCECorail Intercité-87487603,"gare de Saumur",,47.26897591,-0.07141926,,,0,StopArea:OCE87487603
+StopPoint:OCECorail Intercité-87484006,"gare de Angers-St-Laud",,47.46443417,-0.55694922,,,0,StopArea:OCE87484006
+StopPoint:OCECorail Intercité-87722025,"gare de Lyon-Perrache",,45.74849243,4.82574778,,,0,StopArea:OCE87722025
+StopPoint:OCECorail Intercité-87584052,"gare de Libourne",,44.91588654,-0.23636698,,,0,StopArea:OCE87584052
+StopPoint:OCECorail Intercité-87584516,"gare de Coutras",,45.03665571,-0.13142822,,,0,StopArea:OCE87584516
+StopPoint:OCECorail Intercité-87595298,"gare de Mussidan",,45.0343812,0.35407842,,,0,StopArea:OCE87595298
+StopPoint:OCECorail Intercité-87595009,"gare de Périgueux",,45.18716358,0.70718103,,,0,StopArea:OCE87595009
+StopPoint:OCECorail Intercité-87595124,"gare de Thiviers",,45.41895633,0.92135472,,,0,StopArea:OCE87595124
+StopPoint:OCECorail Intercité-87595322,"gare de Montpon-Ménestérol",,45.00628347,0.15933932,,,0,StopArea:OCE87595322
+StopPoint:OCECorail Intercité-87595249,"gare de St-Astier",,45.13901778,0.52282701,,,0,StopArea:OCE87595249
+StopPoint:OCECorail Intercité-87595512,"gare de Niversac",,45.13819266,0.80813354,,,0,StopArea:OCE87595512
+StopPoint:OCECorail Intercité-87594382,"gare de Condat-le-Lardin",,45.12671615,1.22665077,,,0,StopArea:OCE87594382
+StopPoint:OCECorail Intercité-87594408,"gare de Terrasson",,45.13568774,1.30051202,,,0,StopArea:OCE87594408
+StopPoint:OCECorail Intercité-87594499,"gare de Tulle",,45.25883951,1.75580592,,,0,StopArea:OCE87594499
+StopPoint:OCECorail Intercité-87594119,"gare de Corrèze",,45.32933741,1.88038455,,,0,StopArea:OCE87594119
+StopPoint:OCECorail Intercité-87594168,"gare de Egletons",,45.40231499,2.0651445,,,0,StopArea:OCE87594168
+StopPoint:OCECorail Intercité-87594275,"gare de Meymac",,45.52994313,2.16344556,,,0,StopArea:OCE87594275
+StopPoint:OCECorail Intercité-87594093,"gare de Ussel",,45.55733329,2.31444322,,,0,StopArea:OCE87594093
+StopPoint:OCECorail Intercité-87641241,"gare de Eygurande-Merlines",,45.64576253,2.46500684,,,0,StopArea:OCE87641241
+StopPoint:OCECorail Intercité-87641274,"gare de Laqueuille",,45.64327796,2.70274614,,,0,StopArea:OCE87641274
+StopPoint:OCECorail Intercité-87734038,"gare de Royat-Chamalières",,45.76788566,3.06175227,,,0,StopArea:OCE87734038
+StopPoint:OCECorail Intercité-87734004,"gare de Clermont-Ferrand",,45.77856939,3.10051901,,,0,StopArea:OCE87734004
+StopPoint:OCECorail Intercité-87595579,"gare de Thenon",,45.16007925,1.06863499,,,0,StopArea:OCE87595579
+StopPoint:OCECorail Lunéa-87581009,"gare de Bordeaux-St-Jean",,44.82654205,-0.55619367,,,0,StopArea:OCE87581009
+StopPoint:OCECorail Lunéa-87586545,"gare de Marmande",,44.50307476,0.16811566,,,0,StopArea:OCE87586545
+StopPoint:OCECorail Lunéa-87586008,"gare de Agen",,44.207977,0.620915,,,0,StopArea:OCE87586008
+StopPoint:OCECorail Intercité-87773002,"gare de Montpellier-Saint-Roch",,43.60583439,3.88236031,,,0,StopArea:OCE87773002
+StopPoint:OCECorail Intercité-87751008,"gare de Marseille-St-Charles",,43.30273442,5.38065075,,,0,StopArea:OCE87751008
+StopPoint:OCECorail Intercité-87755009,"gare de Toulon",,43.1283241,5.92946824,,,0,StopArea:OCE87755009
+StopPoint:OCECorail Intercité-87755447,"gare de Les Arcs-Draguignan",,43.45573229,6.48246475,,,0,StopArea:OCE87755447
+StopPoint:OCECorail Intercité-87757526,"gare de St-Raphaël-Valescure",,43.42360755,6.76901295,,,0,StopArea:OCE87757526
+StopPoint:OCECorail Intercité-87757625,"gare de Cannes",,43.55392121,7.01972745,,,0,StopArea:OCE87757625
+StopPoint:OCECorail Intercité-87757674,"gare de Antibes",,43.5857923,7.11952151,,,0,StopArea:OCE87757674
+StopPoint:OCECorail Intercité-87756056,"gare de Nice-Ville",,43.70471606,7.2617967,,,0,StopArea:OCE87756056
+StopPoint:OCECorail Intercité-87781005,"gare de Béziers",,43.345619,3.217771,,,0,StopArea:OCE87781005
+StopPoint:OCECorail Intercité-87773200,"gare de Sète",,43.41281189,3.69639619,,,0,StopArea:OCE87773200
+StopPoint:OCECorail Intercité-87775007,"gare de Nîmes",,43.83229306,4.36583551,,,0,StopArea:OCE87775007
+StopPoint:OCECorail Intercité-87753657,"gare de Arles",,43.68484578,4.63203021,,,0,StopArea:OCE87753657
+StopPoint:OCECorail Intercité-87734053,"gare de Riom-Châtel-Guyon",,45.88984232,3.1208132,,,0,StopArea:OCE87734053
+StopPoint:OCECorail Intercité-87732008,"gare de Vichy",,46.12697267,3.43049183,,,0,StopArea:OCE87732008
+StopPoint:OCECorail Intercité-87721472,"gare de Tarare",,45.88978808,4.43907466,,,0,StopArea:OCE87721472
+StopPoint:OCECorail Lunéa-87741009,"gare de Chambéry-Chal.-les-Eaux",,45.57104551,5.91980692,,,0,StopArea:OCE87741009
+StopPoint:OCECorail Lunéa-87741132,"gare de Aix-les-Bains-le-Revard",,45.68786503,5.90935175,,,0,StopArea:OCE87741132
+StopPoint:OCECorail Lunéa-87746149,"gare de Rumilly",,45.86306575,5.94795935,,,0,StopArea:OCE87746149
+StopPoint:OCECorail Lunéa-87746008,"gare de Annecy",,45.90206721,6.12182569,,,0,StopArea:OCE87746008
+StopPoint:OCECorail Lunéa-87746305,"gare de La Roche-sur-Foron",,46.067678,6.30374377,,,0,StopArea:OCE87746305
+StopPoint:OCECorail Lunéa-87746370,"gare de Cluses (Hte-Savoie)",,46.06142103,6.58268285,,,0,StopArea:OCE87746370
+StopPoint:OCECorail Lunéa-87746438,"gare de Sallanches-Comb.Megève",,45.93567659,6.63647694,,,0,StopArea:OCE87746438
+StopPoint:OCECorail Lunéa-87746479,"gare de St-Gervais-L-B-Le-Fayet",,45.90647016,6.70071726,,,0,StopArea:OCE87746479
+StopPoint:OCECorail Lunéa-87741793,"gare de Bourg-St-Maurice",,45.61852872,6.77148871,,,0,StopArea:OCE87741793
+StopPoint:OCECorail Lunéa-87741777,"gare de Landry",,45.57420721,6.73387871,,,0,StopArea:OCE87741777
+StopPoint:OCECorail Lunéa-87741769,"gare de Aime-la-Plagne",,45.55436967,6.64889569,,,0,StopArea:OCE87741769
+StopPoint:OCECorail Lunéa-87741728,"gare de Moûtiers-Salins-Brides",,45.48648182,6.53138813,,,0,StopArea:OCE87741728
+StopPoint:OCECorail Lunéa-87741645,"gare de Albertville",,45.6731881,6.38324971,,,0,StopArea:OCE87741645
+StopPoint:OCECorail Lunéa-87757518,"gare de Fréjus-Gare-Autotrain",,43.42878101,6.75500091,,,0,StopArea:OCE87757518
+StopPoint:OCECorail Lunéa-87761007,"gare de Valence-Ville",,44.92807545,4.89330406,,,0,StopArea:OCE87761007
+StopPoint:OCECorail Lunéa-87763607,"gare de Briançon",,44.88980771,6.63295535,,,0,StopArea:OCE87763607
+StopPoint:OCECorail Lunéa-87763557,"gare de L'Argentière-les-Ecrins",,44.7910068,6.55640777,,,0,StopArea:OCE87763557
+StopPoint:OCECorail Lunéa-87763508,"gare de Montdauphin-Guillestre",,44.67460414,6.61562557,,,0,StopArea:OCE87763508
+StopPoint:OCECorail Lunéa-87763466,"gare de Embrun",,44.56696019,6.49673937,,,0,StopArea:OCE87763466
+StopPoint:OCECorail Lunéa-87763003,"gare de Gap",,44.56369648,6.0856963,,,0,StopArea:OCE87763003
+StopPoint:OCECorail Lunéa-87763300,"gare de Veynes-Dévoluy",,44.53199766,5.81583098,,,0,StopArea:OCE87763300
+StopPoint:OCECorail Lunéa-87763425,"gare de Chorges",,44.54570494,6.27205927,,,0,StopArea:OCE87763425
+StopPoint:OCECorail Lunéa-87761841,"gare de Die",,44.75821543,5.36326718,,,0,StopArea:OCE87761841
+StopPoint:OCECorail Lunéa-87761783,"gare de Crest",,44.73018811,5.01611173,,,0,StopArea:OCE87761783
+StopPoint:OCECorail Lunéa-87761874,"gare de Luc-en-Diois",,44.61368951,5.45462877,,,0,StopArea:OCE87761874
+StopPoint:OCECorail Intercité-87696229,"gare de Fourchambault",,47.01923359,3.08730066,,,0,StopArea:OCE87696229
+StopPoint:OCECorail Intercité-87696211,"gare de Pougues-les-Eaux",,47.07697512,3.09382268,,,0,StopArea:OCE87696211
+StopPoint:OCECorail Intercité-87696195,"gare de La-Charité-sur-Loire",,47.18099521,3.02401397,,,0,StopArea:OCE87696195
+StopPoint:OCECorail Intercité-87696179,"gare de Pouilly-sur-Loire",,47.28216962,2.96606338,,,0,StopArea:OCE87696179
+StopPoint:OCECorail Intercité-87696146,"gare de Cosne-sur-Loire",,47.41402574,2.93208865,,,0,StopArea:OCE87696146
+StopPoint:OCECorail Intercité-87696088,"gare de Briare",,47.64649868,2.73368519,,,0,StopArea:OCE87696088
+StopPoint:OCECorail Intercité-87684290,"gare de Gien",,47.69888288,2.63675237,,,0,StopArea:OCE87684290
+StopPoint:OCECorail Intercité-87684274,"gare de Nogent-sur-Vernisson",,47.85285011,2.73763662,,,0,StopArea:OCE87684274
+StopPoint:OCECorail Intercité-87684001,"gare de Montargis",,48.00718027,2.74297582,,,0,StopArea:OCE87684001
+StopPoint:OCECorail Intercité-87686667,"gare de Paris-Bercy",,48.83921547,2.38279933,,,0,StopArea:OCE87686667
+StopPoint:OCECorail Intercité-87696161,"gare de Tracy-Sancerre",,47.33691002,2.88050833,,,0,StopArea:OCE87696161
+StopPoint:OCECorail Intercité-87684126,"gare de Nemours-St-Pierre",,48.26790887,2.68565411,,,0,StopArea:OCE87684126
+StopPoint:OCECorail Intercité-87116137,"gare de Longueville (S.-et-M.)",,48.51351115,3.24968453,,,0,StopArea:OCE87116137
+StopPoint:OCECorail Intercité-87713040,"gare de Dijon-Ville",,47.32340686,5.02729102,,,0,StopArea:OCE87713040
+StopPoint:OCECorail Intercité-87713008,"gare de Dijon-Porte-Neuve",,47.3227998,5.05486416,,,0,StopArea:OCE87713008
+StopPoint:OCECorail Intercité-87713859,"gare de Is-sur-Tille",,47.52022809,5.12983281,,,0,StopArea:OCE87713859
+StopPoint:OCECorail Intercité-87295006,"gare de Maubeuge",,50.27280932,3.96641315,,,0,StopArea:OCE87295006
+StopPoint:OCECorail Intercité-87295600,"gare de Aulnoye Aymeries",,50.19721269,3.84375332,,,0,StopArea:OCE87295600
+StopPoint:OCECorail Intercité-87295220,"gare de Le Cateau",,50.0914675,3.54002229,,,0,StopArea:OCE87295220
+StopPoint:OCECorail Intercité-87444208,"gare de Mézidon",,49.07086722,-0.07496612,,,0,StopArea:OCE87444208
+StopPoint:OCECorail Intercité-87444695,"gare de Sées",,48.60016092,0.16611181,,,0,StopArea:OCE87444695
+StopPoint:OCECorail Intercité-87444711,"gare de Alençon",,48.43380326,0.09905038,,,0,StopArea:OCE87444711
+StopPoint:OCECorail Intercité-87396002,"gare de Le Mans",,47.9955866,0.19214286,,,0,StopArea:OCE87396002
+StopPoint:OCECorail Intercité-87396606,"gare de Château-du-Loir",,47.68328173,0.41498602,,,0,StopArea:OCE87396606
+StopPoint:OCECorail Intercité-87396564,"gare de Ecommoy",,47.82453334,0.26901762,,,0,StopArea:OCE87396564
+StopPoint:OCECorail Intercité-87444588,"gare de Le Merlerault",,48.70241495,0.28349405,,,0,StopArea:OCE87444588
+StopPoint:OCECorail Intercité-87444604,"gare de Ste-Gauburge",,48.71726323,0.42810818,,,0,StopArea:OCE87444604
+StopPoint:OCECorail Intercité-87393553,"gare de Nonancourt",,48.77575452,1.19280226,,,0,StopArea:OCE87393553
+StopPoint:OCECorail Intercité-87387092,"gare de Bueil",,48.92508991,1.44377555,,,0,StopArea:OCE87387092
+StopPoint:OCECorail Intercité-87381624,"gare de Bréval",,48.94312632,1.54133018,,,0,StopArea:OCE87381624
+StopPoint:OCECorail Intercité-87387159,"gare de Conches",,48.96234048,0.93896455,,,0,StopArea:OCE87387159
+StopPoint:OCECorail Intercité-87387183,"gare de Beaumont-le-Roger",,49.07418071,0.77262494,,,0,StopArea:OCE87387183
+StopPoint:OCECorail Intercité-87444315,"gare de Serquigny",,49.1076727,0.71957679,,,0,StopArea:OCE87444315
+StopPoint:OCECorail Intercité-87476671,"gare de Questembert",,47.68313102,-2.44966901,,,0,StopArea:OCE87476671
+StopPoint:OCECorail Intercité-87476259,"gare de Hennebont",,47.79893044,-3.28565674,,,0,StopArea:OCE87476259
+StopPoint:OCECorail Intercité-87476317,"gare de Quimperlé",,47.86906313,-3.55301115,,,0,StopArea:OCE87476317
+StopPoint:OCECorail Intercité-87474155,"gare de Rosporden",,47.96018968,-3.83275774,,,0,StopArea:OCE87474155
+StopPoint:OCECorail Intercité-87543009,"gare de Orléans",,47.90815267,1.90475291,,,0,StopArea:OCE87543009
+StopPoint:OCECorail Intercité-87574004,"gare de Blois",,47.58553886,1.32352621,,,0,StopArea:OCE87574004
+StopPoint:OCECorail Intercité-87574343,"gare de Amboise",,47.42147602,0.9811911,,,0,StopArea:OCE87574343
+StopPoint:OCECorail Intercité-87673004,"gare de Bayonne",,43.49676401,-1.47039764,,,0,StopArea:OCE87673004
+StopPoint:OCECorail Intercité-87672253,"gare de Orthez",,43.48409996,-0.76762136,,,0,StopArea:OCE87672253
+StopPoint:OCECorail Intercité-87672006,"gare de Pau",,43.2916699,-0.36964036,,,0,StopArea:OCE87672006
+StopPoint:OCECorail Intercité-87671339,"gare de Lourdes",,43.10043658,-0.042183,,,0,StopArea:OCE87671339
+StopPoint:OCECorail Intercité-87671008,"gare de Tarbes",,43.23980288,0.06940671,,,0,StopArea:OCE87671008
+StopPoint:OCECorail Intercité-87611137,"gare de St-Gaudens",,43.10495622,0.72926291,,,0,StopArea:OCE87611137
+StopPoint:OCECorail Intercité-87611152,"gare de Montréjeau-Gourdan-Pol.",,43.07805685,0.5735362,,,0,StopArea:OCE87611152
+StopPoint:OCECorail Intercité-87672139,"gare de Coarraze-Nay",,43.18183571,-0.24174504,,,0,StopArea:OCE87672139
+StopPoint:OCECorail Intercité-87671123,"gare de Lannemezan",,43.114313,0.387694,,,0,StopArea:OCE87671123
+StopPoint:OCECorail Intercité-87677005,"gare de Hendaye",,43.35300367,-1.78186667,,,0,StopArea:OCE87677005
+StopPoint:OCECorail Intercité-87677120,"gare de St-Jean-de-Luz-Ciboure",,43.38585017,-1.6611539,,,0,StopArea:OCE87677120
+StopPoint:OCECorail Intercité-87673400,"gare de Biarritz",,43.45937903,-1.54600902,,,0,StopArea:OCE87673400
+StopPoint:OCECorail Intercité-87672337,"gare de Peyrehorade",,43.54677517,-1.1157828,,,0,StopArea:OCE87672337
+StopPoint:OCECorail Intercité-87175091,"gare de Joinville",,48.44475013,5.14428738,,,0,StopArea:OCE87175091
+StopPoint:OCECorail Intercité-87175000,"gare de St-Dizier",,48.6428056,4.94718655,,,0,StopArea:OCE87175000
+StopPoint:OCECorail Intercité-87174276,"gare de Vitry-le-François",,48.7177326,4.58723196,,,0,StopArea:OCE87174276
+StopPoint:OCECorail Intercité-87174003,"gare de Châlons-en-Champagne",,48.9555093,4.34895439,,,0,StopArea:OCE87174003
+StopPoint:OCECorail Intercité-87174409,"gare de Mourmelon-le-Petit",,49.13122492,4.31771739,,,0,StopArea:OCE87174409
+StopPoint:OCECorail Intercité-87171009,"gare de Reims",,49.25906626,4.02401739,,,0,StopArea:OCE87171009
+StopPoint:OCECorail Intercité-87781609,"gare de Bédarieux",,43.60763168,3.14900526,,,0,StopArea:OCE87781609
+StopPoint:OCECorail Intercité-87781583,"gare de Le Bousquet-d'Orb",,43.69154683,3.16838545,,,0,StopArea:OCE87781583
+StopPoint:OCECorail Intercité-87781542,"gare de Ceilhes-Roqueredonde",,43.81213096,3.15529906,,,0,StopArea:OCE87781542
+StopPoint:OCECorail Intercité-87783456,"gare de Tournemire-Roquefort",,43.96998315,3.01658021,,,0,StopArea:OCE87783456
+StopPoint:OCECorail Intercité-87783431,"gare de St-Rome-de-Cernon",,44.0145748,2.96761728,,,0,StopArea:OCE87783431
+StopPoint:OCECorail Intercité-87783423,"gare de St-Georges-de-Luzençon",,44.066027,2.983915,,,0,StopArea:OCE87783423
+StopPoint:OCECorail Intercité-87783001,"gare de Millau",,44.101871,3.074906,,,0,StopArea:OCE87783001
+StopPoint:OCECorail Intercité-87783365,"gare de Sévérac-le-Château",,44.325206,3.057398,,,0,StopArea:OCE87783365
+StopPoint:OCECorail Intercité-87783340,"gare de Campagnac-St-Geniez",,44.42213426,3.0661302,,,0,StopArea:OCE87783340
+StopPoint:OCECorail Intercité-87783324,"gare de Banassac-la-Canourgue",,44.44764172,3.19621014,,,0,StopArea:OCE87783324
+StopPoint:OCECorail Intercité-87783282,"gare de Marvejols",,44.54461586,3.28104757,,,0,StopArea:OCE87783282
+StopPoint:OCECorail Intercité-87783266,"gare de Aumont-Aubrac",,44.71813975,3.28341528,,,0,StopArea:OCE87783266
+StopPoint:OCECorail Intercité-87783241,"gare de St-Chély-d'Apcher",,44.80170127,3.2707413,,,0,StopArea:OCE87783241
+StopPoint:OCECorail Intercité-87783175,"gare de St-Flour-Chaudes-Aigues",,45.03496384,3.1061934,,,0,StopArea:OCE87783175
+StopPoint:OCECorail Intercité-87645507,"gare de Neussargues",,45.12530029,2.97841321,,,0,StopArea:OCE87645507
+StopPoint:OCECorail Intercité-87734871,"gare de Massiac-Blesle",,45.25314597,3.19642335,,,0,StopArea:OCE87734871
+StopPoint:OCECorail Intercité-87734251,"gare de Arvant",,45.36399228,3.31010583,,,0,StopArea:OCE87734251
+StopPoint:OCECorail Intercité-87734244,"gare de Brassac-les-Mines",,45.4142918,3.33067463,,,0,StopArea:OCE87734244
+StopPoint:OCECorail Intercité-87734202,"gare de Issoire",,45.5448257,3.25412373,,,0,StopArea:OCE87734202
+StopPoint:OCECorail Intercité-87781666,"gare de Magalas",,43.46775546,3.22950007,,,0,StopArea:OCE87781666
+StopPoint:OCECorail Intercité-87782607,"gare de Clermont-la-Pardieu",,45.76784683,3.13263812,,,0,StopArea:OCE87782607
+StopPoint:OCECorail Intercité-87734269,"gare de Brioude",,45.30076313,3.37884258,,,0,StopArea:OCE87734269
+StopPoint:OCECorail Intercité-87734319,"gare de Langeac",,45.10074883,3.49051287,,,0,StopArea:OCE87734319
+StopPoint:OCECorail Intercité-87734350,"gare de Langogne",,44.73232047,3.85786306,,,0,StopArea:OCE87734350
+StopPoint:OCECorail Intercité-87775171,"gare de La Bastide-St-Laurent",,44.59257871,3.9038543,,,0,StopArea:OCE87775171
+StopPoint:OCECorail Intercité-87775197,"gare de Villefort",,44.43943976,3.9233213,,,0,StopArea:OCE87775197
+StopPoint:OCECorail Intercité-87775213,"gare de Génolhac",,44.3480183,3.95182223,,,0,StopArea:OCE87775213
+StopPoint:OCECorail Intercité-87775254,"gare de Grand-Combe-la-Pise",,44.20994871,4.03346666,,,0,StopArea:OCE87775254
+StopPoint:OCECorail Intercité-87775288,"gare de Alès",,44.12812568,4.084779,,,0,StopArea:OCE87775288
+StopPoint:OCECorail Intercité-87734301,"gare de St-Georges-d'Aurac",,45.1603427,3.49464821,,,0,StopArea:OCE87734301
+StopPoint:OCECorail Intercité-87171553,"gare de Epernay",,49.04652108,3.96020987,,,0,StopArea:OCE87171553
+StopPoint:OCECorail Intercité-87171561,"gare de Ay",,49.04879162,4.00164432,,,0,StopArea:OCE87171561
+StopPoint:OCECorail Intercité-87171587,"gare de Germaine",,49.12794211,4.02249493,,,0,StopArea:OCE87171587
+StopPoint:OCECorail Intercité-87171595,"gare de Rilly-la-Montagne",,49.16720399,4.04117098,,,0,StopArea:OCE87171595
+StopPoint:OCECorail Intercité-87171272,"gare de Reims-Maison-Blanche",,49.23339239,4.02270931,,,0,StopArea:OCE87171272
+StopPoint:OCECorail Intercité-87417444,"gare de Franchet-D'espèrey",,49.84250782,4.75059106,,,0,StopArea:OCE87417444
+StopPoint:OCECorail Intercité-87172270,"gare de Rethel",,49.50457068,4.37028428,,,0,StopArea:OCE87172270
+StopPoint:OCECorail Intercité-87172171,"gare de Poix-Terron",,50.24995056,5.37301501,,,0,StopArea:OCE87172171
+StopPoint:OCECorail Intercité-87172007,"gare de Charleville-Mézières",,49.76742007,4.7248489,,,0,StopArea:OCE87172007
+StopPoint:OCECorail Intercité-87172254,"gare de Sedan",,49.69486091,4.92998882,,,0,StopArea:OCE87172254
+StopPoint:OCECorail Intercité-87172353,"gare de Carignan",,49.62852048,5.16846771,,,0,StopArea:OCE87172353
+StopPoint:OCECorail Intercité-87194209,"gare de Montmédy",,49.52279302,5.37104834,,,0,StopArea:OCE87194209
+StopPoint:OCECorail Intercité-87194274,"gare de Longuyon",,49.44427705,5.60459921,,,0,StopArea:OCE87194274
+StopPoint:OCECorail Intercité-87191239,"gare de Hayange",,49.33041651,6.07316506,,,0,StopArea:OCE87191239
+StopPoint:OCECorail Intercité-87192039,"gare de Metz-Ville",,49.10978917,6.17720253,,,0,StopArea:OCE87192039
+StopPoint:OCECorail Intercité-87171462,"gare de Bazancourt",,49.36099945,4.17395159,,,0,StopArea:OCE87171462
+StopPoint:OCECorail Intercité-87172155,"gare de Mohon",,49.75264663,4.73325217,,,0,StopArea:OCE87172155
+StopPoint:OCECorail Intercité-87172213,"gare de Nouvion-sur-Meuse",,49.69697569,4.79493184,,,0,StopArea:OCE87172213
+StopPoint:OCECorail Intercité-87191130,"gare de Uckange",,49.30319466,6.15615702,,,0,StopArea:OCE87191130
+StopPoint:OCECorail Intercité-87172262,"gare de Amagne-Lucquy",,49.52372788,4.47374998,,,0,StopArea:OCE87172262
+StopPoint:OCECorail Intercité-87295733,"gare de Avesnes",,50.12653397,3.93373027,,,0,StopArea:OCE87295733
+StopPoint:OCECorail Intercité-87295709,"gare de Sains du Nord",,50.08890355,4.00159834,,,0,StopArea:OCE87295709
+StopPoint:OCECorail Intercité-87295048,"gare de Fourmies",,50.01536452,4.05360091,,,0,StopArea:OCE87295048
+StopPoint:OCECorail Intercité-87295055,"gare de Anor",,49.9850035,4.09336192,,,0,StopArea:OCE87295055
+StopPoint:OCECorail Intercité-87295063,"gare de Hirson",,49.91448356,4.08440331,,,0,StopArea:OCE87295063
+StopPoint:OCECorail Intercité-87295808,"gare de Berlaimont",,50.19804557,3.81051233,,,0,StopArea:OCE87295808
+StopPoint:OCECorail Intercité-87295857,"gare de Le Quesnoy (Nord)",,50.25021333,3.64551384,,,0,StopArea:OCE87295857
+StopPoint:OCECorail Intercité-87343210,"gare de Le Poirier Université",,50.33083269,3.50279796,,,0,StopArea:OCE87343210
+StopPoint:OCECorail Intercité-87343004,"gare de Valenciennes",,50.36324494,3.51712178,,,0,StopArea:OCE87343004
+StopPoint:OCECorail Intercité-87343103,"gare de St-Amand-les-Eaux",,50.4432364,3.41936044,,,0,StopArea:OCE87343103
+StopPoint:OCECorail Intercité-87286575,"gare de Landas",,50.46891106,3.29007789,,,0,StopArea:OCE87286575
+StopPoint:OCECorail Intercité-87286583,"gare de Orchies",,50.47705568,3.24889,,,0,StopArea:OCE87286583
+StopPoint:OCECorail Intercité-87286625,"gare de Templeuve",,50.52868236,3.17560663,,,0,StopArea:OCE87286625
+StopPoint:OCECorail Intercité-87286641,"gare de Fretin (Nord)",,50.55985073,3.14953035,,,0,StopArea:OCE87286641
+StopPoint:OCECorail Intercité-87286849,"gare de Lesquin",,50.59070914,3.11770858,,,0,StopArea:OCE87286849
+StopPoint:OCECorail Intercité-87286005,"gare de Lille Flandres",,50.63620695,3.07103283,,,0,StopArea:OCE87286005
+StopPoint:OCECorail Intercité-87286567,"gare de Rosult",,50.45642151,3.34886673,,,0,StopArea:OCE87286567
+StopPoint:OCECorail Intercité-87295790,"gare de Leval",,50.18454825,3.83665872,,,0,StopArea:OCE87295790
+StopPoint:OCECorail Intercité-87295774,"gare de Dompierre (Nord)",,50.14601014,3.87098544,,,0,StopArea:OCE87295774
+StopPoint:OCECorail Intercité-87297531,"gare de St Hilaire",,50.13222433,3.9130859,,,0,StopArea:OCE87297531
+StopPoint:OCECorail Intercité-87295725,"gare de Avesnelles",,50.11849367,3.94852821,,,0,StopArea:OCE87295725
+StopPoint:OCECorail Intercité-87324335,"gare de Hirson-Ecoles",,49.92965646,4.08538355,,,0,StopArea:OCE87324335
